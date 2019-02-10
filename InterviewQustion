@@ -1,0 +1,403 @@
+persistent
+Callable interface
+Which executor framework you have used
+Why need to overide the hashcode method
+Can we call different class method using lamda expression
+What is volatile and its used
+Internal implentation of HashMap
+Fail fast and fail safe example
+Use of synchronized
+
+What is detachedState
+When will use the load method
+Integration of spring and Hibernate
+Why dialect is use
+How spring container will create object internally.
+How to create war file and deploy the application
+Which build tool you have used
+Use of @RestController in spring
+How we call websrvices from spring
+What is use of produces and consumes in spring
+1. Java 7 and 8 features
+2.Fibanacci series
+3. How arrayList work internay and which DS using?
+4.What is List internal implementation
+5.JVM archituture
+6.JDBC Connection(CRUD operation)
+executeStatement/PraparedStatement/Callable Statement
+7.Get all columns used in table using java code
+9.How much memory a string can take in the memory size
+ String length*2
+10.HashMap vs Has
+
+Shallow copy
+Deep copy
+cloning
+Shallow copy
+
+Shallow copy is the process in which the state of the object is copied to another object, but both the objects point to the same reference in heap area.
+
+Deep Copy
+
+In Deep Copy, two separate objects are created and in deep copy. In this each field of one object is copied to another object.
+
+Now third category to overcome this difficulty in java is the concept of cloning.
+
+Cloning in java is done by implements Cloneable interface. Cloneable is marker interface.
+
+For more deep knowledge on cloning Refer : Cloning in java
+What is transient
+What is Volatile and synchronized keyword
+Weak and Soft Reference?
+
+1. Java 7 and 8 features
+2.Fibanacci series
+3. How arrayList work internay and which DS using?
+4.What is List internal implementation
+5.JVM archituture
+6.JDBC Connection(CRUD operation)
+executeStatement/PraparedStatement/Callable Statement
+7.Get all columns used in table using java code
+9.How much memory a string can take in the memory size
+ String length*2
+10.HashMap vs Has
+
+DXC technology
+1.	WAP for two thread which will check the even and odd number
+2.	WAP for an Arraylist.
+3.	WAP to reverse string.
+4.	DS
+ Core java
+5.	1. Tell me some bilt in interface in java.
+6.	2. Diference between interface and abstract class
+7.	3. Internal implementation of hashmap.
+8.	4. What is final class and some exaples of final and imutable class.
+9.	6. Use of functional interface in java.
+10.	7. Some string operation
+Hibernate
+11.	
+12.	1. Why we are using hibernate instead of jdbc.
+13.	2.lazy and eager loading in java
+14.	3. Diffrence between load and get.
+15.	5. When object will be detached.
+16.	6. Which types of creteria u have used in ur project.
+17.	7. Which types of annotation u have used in ur project.
+Jdbc
+
+18.	1.Prepared statement and callable uses
+
+Spring
+
+19.	1.which context u have used and why?
+20.	2. When will use singleton and prototype scope.
+21.	3. Flow of mvc once will click on login button of login page.
+22.	4. Which taglib u have used  for validation of form.
+23.	5. How to call webservices from spring.
+ Restful web services
+24.	
+25.	1. Which api u have used for jax.rs
+Servlet and jsp
+
+26.	1. Which method we have to overide if want to implement servlet interface.
+27.	2. Default objects in jsp
+28.	3. Tag lib for form validation
+29.	4.when jsp page called
+Sql
+30.	
+31.	1. How to write stored procedure.
+Hibernate
+
+32.	1 . In hibernate how we call stored procedure.
+33.	 2. How to get employee department wise if we have two table emploee and department and depart column is exist in both the table
+34.	5. Diffrencfe between sendredired and forward method
+35.	2. What is normalization
+36.	 2. WHAT IS NORMALIZATION AND HOW YOU HAVE USED IN UR PROJECT.
+
+
+Capgemini
+1.WAP for singleton and doubleton.
+2.lisiterator list of methods.
+3.WAP to insert employee data into HashMap when age>45 using iterator.
+4. what is deep and shallow cloning 
+Suppose two class 
+Class A
+{
+Int a ,b;
+
+}
+Class Animal
+{
+Dog g;
+Cat c;
+}
+37.	Tell how many object will create when
+Student sd=new Student(‘c’);
+
+
+Heap----------------------SP
+
+38.	WA java code to make immutable class
+Cognizant
+Q. In how many way we can create the object of an class.
+Q. What is thread and heap dump and what is the difference.
+Q. How to find thread dump?
+Q. How to minimize OutOfMemory error.
+Q. Suppose that two table is there Employee and Department
+Employee
+   Depid
+   Empid
+   Ename
+
+Deppartment
+   Deptid
+   Dname
+   Dtails
+Then find the departmanet details which having dname=’ABC’
+Q. Suppose two class 
+	Class A------Singleton
+
+	Class B------Prototype
+Then how many object will create 
+Q. Suppose two jar is there and both are configured in pom.xml file and if we  want to ignore one dependency in production then how u can do it.
+Q. How to build the project using maven and deployed in production.
+Q. What is the use of springboot and how it works. 
+Q. What is the use of stream api and how it works with collection
+Q. Functional interface and it used in ur project.
+Q. lambda expression use and use for addition of two numbers.
+Q. How to define rest and post
+Q. Can we access a class private variable in another class.
+Q. How you did maven packaging(Means build the applicationand deployed into server)
+
+Information technology
+Q. WAP to count each charator of string in a word
+     For example
+     String s1=”shamim”
+     s---1
+     h—1
+     a---1
+     m—2
+     i—1
+Q. WAP to get common word from two string
+     String s1=”I am shamim here”;
+     String s2=”here shamim is that”;
+     Common word is ‘shamim’,’here’
+Q. How to take unique records from Map.
+  If phone number and name  is matched then consider as duplicates record.
+Q. How to call one resful service to another?
+    For example: first service is ‘withdraw()’ and second service is ‘deposit()’
+Q. What is use of qualifier in spring? And is it use the autowired bytype or byname?
+Q. Can we initialize abstract class inside constructor of different class?
+Q. How to make class immutable?
+
+Company Name :Flamenco Tech
+---------------------------
+1. Describe about your project.
+2. How the struts know where navigation and about module.
+3. How HashMap is working and how we can access value.
+4. What is MVC Structure and what is the benefit for customer.
+5. What is thread and WAP for consumer producer program.
+6. Make java class as singleton.
+7. Where we can use the final class . 
+8. Access specifier in java.
+9. JSP code for modifying value in sub div.
+10. How Action servlet work in Struts.
+11. How java is secure.
+12. Example of mutable and immutable.
+13. Example on OutPutStream.
+14. Without creating object how we can access variable and method.
+
+Genpact Interview Questions
+------------------------------
+1.How the tomcat knows about servlet.
+2.
+
+
+Tanavat Technolgies,Kormangala
+------------------------------
+1.Explain about your project.
+2.How the unlimited range data we can store in single variable.
+3.We have two table emp and dept
+EMP
+--
+
+Empno 		Empname		Salary 		Deptno
+101		Sham		20000		null
+102		Sunny		30000		null
+103		mohan		40000		D123
+104		Nayan		23000		D122
+
+Dept
+-----
+
+Deptno		Name
+D123		Mohan
+D122		Nayan
+
+Find Dept who has maximum employee
+Find employee which is not belongs to any department.
+
+4.How many types of query hibernate can understand.
+5.Write simple query in hibernate.
+6.List of method of Object class.
+7.Autoboxing and Unboxing
+8.Wrapper classes and its use.
+
+
+--------------------------------------------------------
+Design pattern and how used with thread.
+Web services :Which framework u have used.
+How can we remove duplicate from list.
+Methods of Object class and what is the difference between equal and hashcode.
+How u can make the loose coupling.
+How will you make immutable class/methods.
+Have you got any error while using collection.
+Which jdk are u using and explain some of java 8 feauters
+Difference between iterator and listIterator
+What is difference between fail-fast and fail-safe?
+How to avoid ConcurrentModificationException while iterating a collection?
+How can we get all key from Map
+--------------------------------------------------------------
+comany name: mphasis on 08 sept 2018
+
+1. in a class two overloaded method is there then what is the o/ph
+
+class A{
+
+public a(string a)
+{
+
+}
+
+public a(integer  a)
+{
+}
+psvm()
+{
+  A a=new A();
+ a.a(null);
+
+}
+}
+}
+
+}
+
+2. What is executer framework?
+3. difference between creating an object using string literal and using new operator
+
+Spring
+-------
+1. If two class is there and if we define scope of class A is 'singleton' and another one is prototype then how many object will
+be creating.
+
+hibernate
+--------------
+1. types of cascading
+
+SGS Global telephonic interview
+---------------------------------
+1. Explain about ur carrier.
+2. What is Enumarator and in which situation will use?
+3. Internal architecture of SET and explain why its not accepting duplicate.
+4. Weak,Strong and ... access specifier
+5. Super class of exception and what is the Error and give some example of checked exception. 
+6. LinkedList real scenario use.
+7. Can java support multilabel inheritance?
+8. Explain about thread schedular and how its work?
+9. way of implementing thread. 
+10. iterator and list iterator and how we can iterate the record on hashmap.
+11. difference between system.gc() and calling finalize method.
+12. why wait and notify method is static?
+13. is there any limition to create the thread?
+
+
+
+Spring
+---------------
+1. what is IOC and give example to inject static method.
+2. what is minimum configuration is required for spring configuration
+3. types of annotation for configuring controller servlet?
+
+web services
+------------
+1. which APi you have used for Restful.
+2. Difference between put and Delete?
+3. explain about restful annotation
+4. 
+
+hibernate
+----------------
+
+
+
+[8:17 AM, 2/3/2019] Shamim: MindTree interview question
+
+1. Explain your project with diagram
+2. Internal structure of HashMap
+3. Comparable and comparator interface with   example of employee class  and sort the   employeè using salary
+4. Using lamda expression how we can find particular employee.
+5. How to make HashMap synchronized and if you make then what is difference between HashMap and HashTable
+6. Why to use CuncurrentHashMap
+7. Checked and unchecked example .
+8. ClassNotfoundException and ClassDefException difference.
+9. Write a code to make deadlock in thread.
+10. WAP to reverse string for example
+	S1= "india is my country"
+	Then it should be "country my is india"
+
+11. WAP to find specific text from file using lamda expression.
+12. What is excutor framework and when will use please write the code.
+13. Integration with Hibernate and spring.
+14. Suppose your hibernate conflagration file is different location and spring conflagration file is different location then how you can bring and integrate.
+15. Write a xml code for onetoMany relationship in hibernate.
+16. What is strategy in hibernate.
+17. How we can configure 1st label cache and 2nd level cache what is is the difference.
+18. Way to make spring boot project and benefits.
+19. Suppose some other project if you want to integrate then in maven what u will do.
+20. Write a sql script to find the employee which name is start with 'sham'
+21. Write sql script to find 3rd highest salary
+22. How to remove before and after spaces from a table column.
+23. WAP to find 2nd highest number from an array
+	For example a(i)= (1,-23,29,89,67,0,1,21)
+25.	What is externalization
+
+
+NetCracker Interview Question
+i)	WAP to create a singleton and which situation we can create.
+ii)	WAP to sort the number in descending order from an array.
+iii)	What is spring boot and how the spring reduced the configuration.
+iv)	Create a stored procedure to print the employee number from employee table using cursor.
+ADP technology
+i)	WAP to sort the number from an array.
+ii)	WAP to make the array’s will have equal element till that time how much number should be deleted that count we have to show for example
+Input: A[]={2,4,4,4,4,4,3}
+Output : 2
+
+Input a[]={1,2,3,4,5,6}
+Output:5 Means from above array any number can be deleted.
+
+iii)	WAP to reverse a string using recursion.
+Telephonic interview on 08 Feb 2019
+i)	What is aggregation in java tell me some example.
+ii)	Static class use
+iii)	What is the use of intern() method in java.
+iv)	How to create custom exception in java.
+v)	Can you explain method signature in java.
+vi)	Why StringBuffer and StringBuilder is final and if it is final then why these classes are not immutable.
+vii)	How many access specifier in java and what is the use.
+viii)	 Explain about your work experience
+ix)	Difference between hashmap and linkedhashmap
+x)	 Which design pattern you have used
+xi)	In SessionFactory which design pattern used how how its working internally
+xii)	HashMap works internally
+xiii)	How to create transaction and how to control it like normal form.
+xiv)	What is normalization
+xv)	How spring boot working and how it make sure this bean is already exist.
+xvi)	Tell me complete configuration of DispatherServlet
+xvii)	Why generic came.
+xviii)	Why we are using  hibernate ?
+xix)	Which hibernate criteria u have used and internally criteria how its work.
+xx)	 Use of volatile and when it will become automacity
+xxi)	Why oops concept is required.
+xxii)	 How to achieve abstraction in java
+
