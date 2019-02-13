@@ -401,3 +401,11 @@ xx)	 Use of volatile and when it will become automacity
 xxi)	Why oops concept is required.
 xxii)	 How to achieve abstraction in java
 
+Bitwise Fountain
+
+1. What is static class and where u have used
+2. if Abstract class has only abstract method then which one good to choose between interface or abstract class.
+3. How to make our request and response secure.
+4. What is the use of component scan in spring boot.
+5. What is use of @configuration annotation in spring boot.
+6. Spring Boot Profiles - Application
