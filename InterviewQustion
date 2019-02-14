@@ -410,3 +410,6 @@ Bitwise Fountain
 5. What is use of @configuration annotation in spring boot.
 6. Spring Boot Profiles - Application
 7. Spring component scan
+8. What is spring security 
+ for creating login screen, remember me cookie support, securing URL, authentication provider to authenticate the user from the database, LDAP and in memory, concurrent active session management support and much more.
+9. What is use of @Component,@Controllert and @Service
