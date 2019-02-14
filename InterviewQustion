@@ -413,3 +413,4 @@ Bitwise Fountain
 8. What is spring security 
  for creating login screen, remember me cookie support, securing URL, authentication provider to authenticate the user from the database, LDAP and in memory, concurrent active session management support and much more.
 9. What is use of @Component,@Controllert and @Service
+10.Have u worked in gradle
