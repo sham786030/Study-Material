@@ -401,7 +401,7 @@ xx)	 Use of volatile and when it will become automacity
 xxi)	Why oops concept is required.
 xxii)	 How to achieve abstraction in java
 
-Bitwise Fountain
+Binary Fountain
 
 1. What is static class and where u have used
 2. if Abstract class has only abstract method then which one good to choose between interface or abstract class.
@@ -414,3 +414,22 @@ Bitwise Fountain
  for creating login screen, remember me cookie support, securing URL, authentication provider to authenticate the user from the database, LDAP and in memory, concurrent active session management support and much more.
 9. What is use of @Component,@Controllert and @Service
 10.Have u worked in gradle
+
+
+NESS technology kormangala
+
+1. How to count object creations apart from writing logic in constructor like in instance block
+2. What is method overiding and can we change return type?
+3. Wap to make number to palindrom
+
+	For example 13212
+	So number can be 12321 can be palindrom
+4. Is string is immutable or mutable and how we can make immutable and shows how its data changing will be immutable.
+5. Suppose one class is there which is already throws Filenotfoundexception then second time can we make throws Exception
+
+	For example: 
+	throws M1 Filenotfoundeception
+
+	to 
+
+	throws M1 Exception
