@@ -443,3 +443,35 @@ Wipro telephonic Interview Question.
 4. Can you explain spring mvc w.r.t to your project.
 5. Which repository tools you have used?
 6.What is callable interface and how you have used?
+
+Triveni telephonic
+
+1. Which version of Java you have used and which features of Java you have used?
+2. Hibernate which version you have used.
+3. Can you explain Hibernate interfaces.
+4. Why SessionFactoy is required and how to implement second level cache.
+5. Why second level cache will be loss?
+6. What is criteria when will use,please give some example.
+7. Suppose one interface is there and two implemented class which will map from one table.Please explain how you will 
+   map from table.
+   Table.
+   
+   Table Patient
+   -------------
+   PatientId	Inpatient	OutPatient	PatientName	etc..
+   
+   Interface A{}
+   
+   Class Patient implements A{
+   }
+   
+   Class Patient1 implements A{
+   }
+ 
+ 8. How DispatherServlet will work and please explain flow.
+ 9. Internal implementation of HashMap.
+ 10. Suppose one Employee class there and that employee object want to put in HashMap as key then how we can make sure
+     employee object will be unique?
+11. When ConcurrentModificationException will come and you will resolve
+12. How you can use Internalization in spring please explain.
+   
