@@ -1,4 +1,5 @@
-persistent
+persistent System limited
+--------------------------------------
 Callable interface
 Which executor framework you have used
 Why need to overide the hashcode method
@@ -475,3 +476,18 @@ Triveni telephonic
 11. When ConcurrentModificationException will come and you will resolve
 12. How you can use Internalization in spring please explain.
    
+   
+ Genpact 09 March 2019
+ 
+ Q. First round was MCQ that cleared.
+    some many question related to hashcode and equals method
+ 1. Write a code implement lamda expression.
+ 2. Write a code for multi threading.
+ 3. How to compile the code run the code using command prompt.
+ 4. Without writing main method how to print some text.
+	 for example
+	 
+	 class A{
+		syso("Hello");
+	 }
+ 5. Why String is immutable?  
