@@ -491,3 +491,42 @@ Triveni telephonic
 		syso("Hello");
 	 }
  5. Why String is immutable?  
+ 
+ Thomson Reuters
+ -----------------------------
+  1. Wap to find the common word count from two files.
+
+For ex: 
+Names.txt: Banglore
+                   Puned
+Data.txt: hai aap banglore me to mai bi banglore aa jau kya
+In above two file banglore came two times.
+
+2. if you have used in your project spring boot then why its required to spring mvc?
+3. In a xml file how we can read leaf node and which parsing you have used.
+4. Suppose in a arraylist huge number of data is there and we want to retried they which loop will be best and why 
+
+	in between while, do while and for loop.
+5. Wap to implement the lamda expression and what is the benefit other than less coding?
+6. Stream api what are the implentation please explain.
+7. What is the use of functional interface and what is use.
+8. What are the java 1.8 features you have used in your project.
+
+[4:00 PM, 3/13/2019] Shamim: Volvo it
+---------------------------------------
+
+1. If you want to make a class object as hashmap key then what are things we have to take care.
+2. Wap to count charactor from a string.
+	For eg: 
+	Strring s1= "shamimansari"
+
+	S: 2
+	H: 1 and so on
+3. What are the benefits of hibernate.
+
+2nd round
+
+1.Is there any way(try with resources)to close the resources other than finally block.
+2. What is the advantage of spring boot please tell some benefits.
+3. If we have so many catch block for one try then what is the order for all catch.
+4. Can we override static method and if not then why?
