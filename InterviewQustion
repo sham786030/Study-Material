@@ -530,3 +530,27 @@ In above two file banglore came two times.
 2. What is the advantage of spring boot please tell some benefits.
 3. If we have so many catch block for one try then what is the order for all catch.
 4. Can we override static method and if not then why?
+
+Mirafra Software Technologies White field on 16 March 2019
+ ----------------------------------------------
+ 1. Make LLD and HLD to make inheritance a class and where will mention the table relationship and database details.
+ 2. WAP to merge two array and sort it.
+    for ex: arr1={1,2,30} arr2={3,9,6,7,5}
+ 3. Factory pattern design example with code.
+ 4. Design a restful web services which will post the services to accept the uid and password using 
+    spring boot.
+    for example: 
+     
+    @RestController
+    class A{
+	  @Requestmapping(value="/login", method=RequestMethod.POST)
+	  public string login(){
+	  
+	  }
+	  @ResponseBody
+	  .......
+	  .......
+	  ............
+	  
+	}	
+5. WAP to make own custom HashMap class which functionality should be similar to HashMap
