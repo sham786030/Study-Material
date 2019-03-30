@@ -590,3 +590,28 @@ Quest Global on 30 march 2019
  13. Will it work when will do method overirding and throws runtime exception child method then how it will work.
  14. What is the use of spring boot and if we have used spring boot then why its required spring MVC.
  15. How many ways to create an object of class?
+ Msg Global
+
+1.What is the features of spring boot.
+2. How can we read values from spring boot(values annotation)
+3. class A{
+    public void m1() throws IOException{
+   
+    }
+  }
+  class B extends A{
+	public void m1() throws Exception{
+	
+	}
+  }
+  
+ class Service{
+  psvm(){
+  
+  A a=new B();
+  a.m1();//Which method will call
+  //If m1 method will throws Exception then what will happen
+  
+  
+  }
+ }
