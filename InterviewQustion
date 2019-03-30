@@ -554,3 +554,39 @@ Mirafra Software Technologies White field on 16 March 2019
 	  
 	}	
 5. WAP to make own custom HashMap class which functionality should be similar to HashMap
+
+Quest Global on 30 march 2019
+---------------------
+1. Difference between collection and stream.
+2. Why java 8 has default method(regarding backward compatability).
+3. Why functional interface came?
+4. Contract between hashcode and equals methods. 
+   for example String str1="sham"
+               String str2="sham"
+			   then how both the contract is working if we make str1.equals(str2);
+5. What is the use of DriverManager and how to load.
+7. Rules to do method overriding.
+8. Java code to reverse a string.
+9. If two table is there and 
+
+   employee
+   empid	empname		deptname
+   emp1		shamim		dept1
+   emp2		ashish		dept2	
+   emp3		ashutosh	dept3
+   
+   department
+   
+   deptid	deptname
+   dept1
+   dept2
+   dept3
+   dept4
+   
+   then find the employee which don't have any department
+ 10. In spring DispatherServlet is which types of servlet
+ 11. What is load on start up  on web.xml and if we will give 100 then what will happen?
+ 12. If we have overided one method and if overided method is throw exception then how the flow will go.
+ 13. Will it work when will do method overirding and throws runtime exception child method then how it will work.
+ 14. What is the use of spring boot and if we have used spring boot then why its required spring MVC.
+ 15. How many ways to create an object of class?
