@@ -615,3 +615,16 @@ Quest Global on 30 march 2019
   
   }
  }
+ 
+Rakuten India Private Limited,MG Road on 14 April 2019
+
+1. What is static import in java.
+2. Explain about your project.
+3. How to find the issue in production and which tools you have used to find the issue.
+4. How to make where condition in hibernate.
+5. What is difference between spring and spring boot.
+6. Java code to write interchange map key and values for example.
+  HashMap map=new HashMap();
+  map.put("A",10);
+  map.put("B",11);
+  then interchange 10,Aand 11,B
