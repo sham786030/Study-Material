@@ -628,3 +628,4 @@ Rakuten India Private Limited,MG Road on 14 April 2019
   map.put("A",10);
   map.put("B",11);
   then interchange 10,Aand 11,B
+7. how to set pagination in hibernate.
