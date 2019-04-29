@@ -629,3 +629,21 @@ Rakuten India Private Limited,MG Road on 14 April 2019
   map.put("B",11);
   then interchange 10,Aand 11,B
 7. how to set pagination in hibernate.
+
+
+
+How to expose the webservices
+write the hibernate_config.xml
+For making MVC what are the steps needs to followed.
+List of annotation which you have used in Spring rest
+Make a rest call to getAllEmployees from employee.
+WAP to add two array
+a1[]={1,2,3,5,6};
+b1[]={2,3,5};
+c1[]={3,5,8,5,6};
+What is the permGen space
+What is classLoader
+JSP by default object and application is related to which types of object.
+How to war file using spring boot.
+Which deployment tools you have used.
+Spring steroyo types
