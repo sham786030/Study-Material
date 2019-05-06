@@ -647,3 +647,41 @@ JSP by default object and application is related to which types of object.
 How to war file using spring boot.
 Which deployment tools you have used.
 Spring steroyo types
+
+Synchron
+---------------
+1. What is oops concept and how its beneficial
+2. In which design pattern you are comfortable and singleton how we can break and what is the solution.
+3. Select query to get top 5th salary.
+4. What is @Bean and @Transationl in collection.
+5. What is difference between @Restcontroller and @Controller
+6. What is difference between Set and List and how set is maintaining uniqueness.
+7. CopyReadAndWrite array use
+8. WAP for below result and dont use sort and multiple for loop.
+   int array[]={0,1,1,0,1,0,1}
+   op: {1,1,1,1,0,0,0}
+9. What is the difference between ArrayList and LinkedArrayList and in which situation will use
+10. What is the o/p
+    ArrayList<String> arl=new ArrayList();
+	arl.add(1,"ABC");
+	ar1.add("DFG");
+	ar1.set(1,"GFG");
+11.What is semaphore in thread.
+12.Find the op.
+
+	class A{
+	A(){
+		A a=new A();
+	}
+	}
+	class B{
+	psvm(){
+		A a=new A();
+	}
+	}
+13. Can you draw JVM architecture.
+14. What is the difference between HashMap and IdentityHashMap.
+15. What is the encapsulation and why setter and getter method is required to access the variable.
+    its better to make the class variable to public.
+16. What is classLoader
+
