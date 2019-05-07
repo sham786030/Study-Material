@@ -685,3 +685,9 @@ Synchron
     its better to make the class variable to public.
 16. What is classLoader
 
+
+Philips
+----------------
+1.WAP to find top 2 highest number in a array without using two for loop and collection.
+2. WAP to make pagination without using hibernate or other framework and will pass fetchsize according to our need.
+
