@@ -691,3 +691,36 @@ Philips
 1.WAP to find top 2 highest number in a array without using two for loop and collection.
 2. WAP to make pagination without using hibernate or other framework and will pass fetchsize according to our need.
 
+04/06/2019
+
+1.Features of Java
+2.Give me example of method overloading and overriding and when will use?
+3.Please check weather below code will execute properly or not?
+
+	class Parent{
+	   public void m1()
+	}
+	Class Child extends Parent{
+	public void m1() throws RuntimeException
+	}
+4.Internal Structure of CuncurrentHashMap
+   if particular segment 1 is lock then can we make multiple operation on 
+   one segment?
+5.How many types of IOC will there and tell exact scenario to use.
+6.When will be using prototype scope?
+7.Suppose one table is there and one field will be keep on updating then how we
+   show the updated value on browser without refreshing the page?
+   using executor framework make it work.
+8. when to use Actuator?
+9. Spring filter
+10.Explain the JVM architecture and how class will loading?
+11.Tell me about classLoader and use
+12. Can we call garbage collector manually?if yes then how?
+13.Consumer and producer problem and how we solve this problem?
+14.How to use rest api using Resttemplate?
+15.Use of spring rest option and others method.
+16.Difference between @RestController and @Controller
+17.How to check load balancing in postman?
+18.Difference between HashSet and TreeSet and if we want to put the value of Employee object then what 
+   logic we have to take care? 
+19.How to use Rest client?
