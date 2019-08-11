@@ -724,3 +724,72 @@ Philips
 18.Difference between HashSet and TreeSet and if we want to put the value of Employee object then what 
    logic we have to take care? 
 19.How to use Rest client?
+
+11/08/2019
+
+Spring AspectJ and Interceptor.
+How to solve performance issues.
+can we see string in java log file
+How to do transaction mangement in Hibernate.--Done
+How two services interact each other.
+How to write stored procedure?
+How to use join and which join you have used?
+Have you work on SOAP web services?
+Can you tell about spring component.
+Can you explain about hibernate interfaces.
+Suppose we have two services
+ Service1-> Restful
+ Service2-calling SOAP web services then what the problem can be faced during two services communication
+
+Can overloaded method return type be different--Done
+PermGen space error when you faced and how you had resolved.
+YoungGen and OldGen memory.
+Exception handling with respect to overriding.
+What is important annotations of spring
+Spring Sterotype--Done
+Can you write hibernate config file.
+WAP to convert number to word for example 1248=One thousand fourty eight
+How to read application.properties variables?--Done
+How to pass dynamic value while accessing the rest means (@Variables)
+How to integrate spring and Hibernate?
+How two webservices communicating each other for exaample 
+   if we have two webservice 
+    i)depositAmout
+    ii)WithdrawAmount
+   Then while these two webservices will communicate each other.
+How to make our our services secure(OAuth)
+How to convert xml to json in spring rest
+When Http 302 and 303 came and how you have resolved.--Done
+What will happen if two bean has same id?--Done
+Real scenario to use prototype scope.
+How to make class immutable and if Date has properties in a class then Date's method also has 
+   setter method which can modify the values of date then how we can restrict.
+How to handle exeception in restful webservices
+How to consume services in spring?
+WAP to split array and put into theread and sort and display it.
+  for example array1[]={1,3,4,0,9,8,6,10,11,23,24,13}
+  split into three array arr1,arr2,arr3 and sort and display
+WAP to filter HashMap key according to values
+   for example hashmap={101=A,102=B,103=A,104=D} 
+   then value A=?
+How to call from one restful service to another service
+
+Heap and 
+
+
+Intuit interview question
+
+1. Can you explain about agile?
+2. Core java related.
+3. Spring Boot
+4. Http status code.
+5. Hibernate relationship and transaction management.
+6. How to make crud operation on spring rest.
+7. What is the difference between soap and rest and why rest is best.
+8. What things we have to take care while writing the rest api.
+9. Java code to write serialize and deserialize the object.
+10. How to make concurrency 
+11. Basics of SQL query.
+12. 
+6. If we have three color suppose green,blue and red and based on color if you want to filter
+    then tell me best approach to filter the particular color ball.
