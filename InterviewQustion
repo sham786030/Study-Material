@@ -793,3 +793,14 @@ Intuit interview question
 12. 
 6. If we have three color suppose green,blue and red and based on color if you want to filter
     then tell me best approach to filter the particular color ball.
+    
+ Quest Client Interview
+ 
+ 1. WAP to convert List into HashMap.
+   for example ArrayList<Student> al=new ArrayList<>();
+   al.add(new Student(1,"sham"))
+   .
+   .
+   .
+  2. When to use 
+     ArrayList al=new ArrayList() and List list=new ArrayList();
