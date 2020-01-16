@@ -804,3 +804,5 @@ Intuit interview question
    .
   2. When to use 
      ArrayList al=new ArrayList() and List list=new ArrayList();
+     
+  3. Filter the HashMap according to its value.
