@@ -806,3 +806,107 @@ Intuit interview question
      ArrayList al=new ArrayList() and List list=new ArrayList();
      
   3. Filter the HashMap according to its value.
+  08/08/2020
+
+1. Spring Security.
+2. MicroServices
+3. Compare and comparator example to sort.
+4. WAP to get combination of two digit which sum is 5.
+   for example: arr[]={1,2,7,3,5,8};
+   {5},{2,3} ..
+5. Exception while overriding the method: Done
+6. try with resources
+
+09/08/2020
+
+1.Multithreading how many way to create cached.
+2.Difference between newFixed and cachedThread
+3.Difference between CuncurrentHashMap and SynchronizedHashMap.
+4. Internal implementation of hashMap.
+5. Maven scope.
+6.What is full outer join and inner join
+ //Test and tell me output
+   Class A{
+public void m1(){
+try{
+
+ sysout("A");
+ m2();
+ sysot("c");
+ 
+
+}
+catch(Excep e)
+{
+  sysot("D");
+}
+}
+}
+
+public void m2(){
+
+try{
+  sysot("B");
+  int i=10/0;
+}
+finally{
+sysot("E");
+}
+
+
+10/08/2020(Xoriant technology)
+
+1. How we can make it class as singleton
+2. How to handle runtime exception suppose in runtime nullpointer exeception is coming then how we can handle it.
+3. Can we access private method outside the class if yes then how we can access using reflection api
+4. What do you mean be Covariant?
+5. How HashSet is maintaining uniqueness?
+6. Can you tell use case of immutable class and how we can make immutable class. 
+
+11/08/2020--Accoalite
+
+1. Can we create object for abstarct class and how can we initialize abstarct class variable.
+2. In java 8 interface everything is their but in java 8 still required Abstarct class?
+3. Why default method came in java 8?
+4. Can we make outer class static? Can we make inner class static and how many inner class make static?
+5. What is out in System.out.println?
+6. Can we call main method inside main? if yes then what will happen?
+7. What is error and exception?Can we handle error if not then tell me how StackFlowError has been handled in below program.
+
+package test.java;
+
+public class Test {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		System.out.println("Hello World");
+		try {
+		  main(args);
+		}
+		
+		catch(StackOverflowError e) {
+			
+			
+		}
+		System.out.println("End");
+	}
+		
+}
+
+8.What is HashMap and how get() method is accessing exact object?
+9.If hasCode is returning always random number then get will able to get any object?
+10. How many threads will there?
+11. Object class how many methods are there and what is the use of finalize() method?
+
+
+
+
+
+
+WAP to print below pattern.
+
+1
+11
+21
+1211
+111221
