@@ -1,0 +1,7451 @@
+
+
+About Me: 
+==========
+
+Dilip Singh
+
+Work Ex : 11 Years : 
+Working in US based Product 
+
+Connect me at: 
+
+	Linked In : @dilipsingh1306
+	Instagram : @dilipsingh_1306
+	Mail      : dilipsingh1306@gmail.com
+	Youtube   : @dilipitacademy
+
+-----------------------
+
+  Demo : Spring Spring Boot Micro Services 
+  =========================================
+
+Programing Lang : 
+-----------------
+
+     S/W : To make 
+
+          Whatsapp
+          Insta 
+          ....
+
+          Phonepe /Net Banking 
+          Mail 
+          ...
+
+Send amount : 
+
+		Bank 
+		Visit Bank 
+		Fil The Form 
+		Standing Q
+		Deposit 
+		Transfer Complted 
+
+		     4 Hours 
+
+
+		In Todays World :  1 min 
+
+
+Business People : Clients : 
+
+Difference B/w Programming Lang Vs Technology Vs Framework:
+
+
+
+Framework : 
+
+		Set of Pre Defined solutions on top of Technlogoes 
+
+Spring Vs Spring Boot 
+Monolithic Vs MicroServices 
+
+
+
+Spring Boot & MicroServices @ 7:30 AM (IST) By Mr.Dileep Singh
+Day-1 https://youtu.be/bsSFsDL-67s
+Day-2 https://youtu.be/-r1UnEHuckk
+
+previous class Recorded videos
+
+9154861173
+
+
+
+
+
+
+
+
+
+
+int a =0 ;
+
+
+int value = 0;
+
+
+Sorting array Values 
+
+ int a[] = {7,3,4,2};
+
+ int values[] = {}
+
+     for(int i=0;){
+
+
+     }
+
+
+
+Ignoring Core Java Practice 
+
+	Spring , Spring Boot 
+
+
+
+
+
+
+
+
+
+
+
+Object : 
+
+Object obj = new Employye();
+
+
+
+getEmpDetails(Object obj){
+
+//print all the details of emp 
+
+
+Extarct Employye Object from Obj Reference
+
+Employee e =  (Employee) obj ; 
+
+obj.getEmpId();
+	
+}
+
+Employee e = (Employee)  obj ; 
+
+
+Spring Boot & MicroServices @ 7:30 AM (IST) By Mr.Dileep Singh
+Day-1 https://youtu.be/bsSFsDL-67s
+Day-2 https://youtu.be/-r1UnEHuckk
+Day-3 https://youtu.be/cyYfRXyY2E4
+
+
+
+Drive Link:
+----------
+
+https://drive.google.com/drive/u/0/folders/1QLg03lpRoIj8A0wNedhCfwKBrtxu6BO8
+
+
+
+
+Jan : 03
+========
+
+  Spring FW : 
+  ---------
+
+
+  Spring FW is built/implmented on top of JSE and JEE
+
+  FW :  Solutions of existing Problems
+  		Better Solutions of existing Solution  
+
+
+
+Spring Boot & MicroServices @ 7:30 AM (IST) By Mr.Dileep Singh
+Day-1 https://youtu.be/bsSFsDL-67s
+Day-2 https://youtu.be/-r1UnEHuckk
+Day-3 https://youtu.be/cyYfRXyY2E4
+Day-4 https://youtu.be/w36vnrCXUYk
+
+
+    Spring FW is introduced ny a person Rod Jhonson   
+
+    Spring 2003
+
+    Spring Boot 2013
+
+    Spring FW : 
+    ----------
+
+    	Spring FW is set of jar files 
+
+    	jar file : 
+
+    	Set of JAR file s
+
+
+    Spring Core Module: 
+    -------------------
+
+    Drive: 		
+
+    https://drive.google.com/drive/u/0/folders/1QLg03lpRoIj8A0wNedhCfwKBrtxu6BO8
+
+ctrl+shift+t
+
+
+Spring FW implemted with key Concepts called IOC and DI 
+
+IOC : Inversion of Control
+DI :  Dependency Injection 
+
+
+Iversion of Control : IOC : 
+
+		IOC is a principke of S/W engineering. 
+
+
+		As Per IOC Principle , the control or flow of Objects is given a container or a framework but not to dveleper. 
+
+
+		Devloper we are written classes, Objects Created by Conatiner.
+
+		 Spring , we can handover any type of Object Creation to the Conatiner / Spring FW. 
+
+
+  Object creation is Done by  Contianer/FW
+
+
+
+
+
+Spring Boot & MicroServices @ 7:30 AM (IST) By Mr.Dileep Singh
+Day-1 https://youtu.be/bsSFsDL-67s
+Day-2 https://youtu.be/-r1UnEHuckk
+Day-3 https://youtu.be/cyYfRXyY2E4
+Day-4 https://youtu.be/w36vnrCXUYk
+Day-5 https://youtu.be/57e2jzIGCxg
+Day-6 https://youtu.be/5ohMyDmtZX8
+
+
+
+
+AFTER PAYMENT PLEASE CLICK THIS LINK AND FILL THE DETAILS AND SEND ME THE PHOTO 
+
+Link: 		bit.ly/SBMS7AMDS
+
+
+https://drive.google.com/drive/u/0/folders/1QLg03lpRoIj8A0wNedhCfwKBrtxu6BO8
+
+
+
+Dependecy Injection: 
+
+	DI is a type of IOC principle Implmentation.  
+
+	When we are having dependecy of one Object into another Object, Conatiner will provide the Dependecies. 
+
+
+	Spring Project Setup :   Core Module:
+	-------------------------------------
+	1.   Create a Java project in Eclipse
+
+	2.   Get Spring Jar files :  Drive 
+
+	3.  Configure Spring Core jar files at build path level of Project.
+
+	     Spring Core Module Project setup is Complted. 
+
+	4.  Programming :
+
+
+  Do you know 
+
+  	TBD : POJO class
+  	TBD : Naming Conventions in JAVA
+
+  		1.     Define Java Class : Student.java 
+  		2.     Java Class informtion should be provided/Configured with SFW. 
+
+  		              How to Confugure?
+
+  		              	In 2 ways , we can configure Java classes with SpFW. 
+
+  		              	1. XML Configuration 
+
+
+  		              	2. Annotations / Java Based Configuration 
+
+  	1. XML Configuration 
+  	======================
+  	1. Create XMl file 
+
+  	2.  Create a parent tag called <beans>  </beans>
+  	3.  Create another child tag called as <bean>
+  	4. Creating Conatiner Object 
+  	         Spring FW provided two ways  of Creating Spring IOC Conatiner
+
+  	         1. BeanFactory <I>
+  	         2. ApplcationContext <I>
+
+  	          associated Implemenataion clsses. 
+
+  	          By using IMPL classes we are creating Spring Conatiner object. 
+
+
+       1. How many Objects can be created for a class?
+
+       		Student   Employee
+
+       		   main(){
+
+                         Student s1 = new Student();
+                         Student s2 = new Student();
+                         Student s3 = new Student();
+                         Student s4 = new Student();
+
+                         Employee s1 = new Employee();
+
+
+       		   }
+
+    Q :  If I passed same Bean Id in XML  what will happens?
+
+    				Excpetion : Unique ID in Document 
+
+    	Q:   If I passed Invalid Bean Id to Conatiner,   what will happens?
+
+    			Exception in thread "main" org.springframework.beans.factory.NoSuchBeanDefinitionException: No bean named 'abc' available
+
+    Jan 06, 2024 8:37:12 AM org.springframework.context.support.AbstractApplicationContext refresh
+WARNING: Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [abc.naresh.Student] for bean with name 's1' defined in file [D:\workspaces\SSM_Dec_27\spring-first-example\beans.xml]; nested exception is java.lang.ClassNotFoundException: abc.naresh.Student
+Exception in thread "main" org.springframework.beans.factory.CannotLoadBeanClassException: Cannot find class [abc.naresh.Student] for bean with name 's1' defined in file [D:\workspaces\SSM_Dec_27\spring-first-example\beans.xml]; nested exception is java.lang.ClassNotFoundException: abc.naresh.Student
+
+Caused by: java.lang.ClassNotFoundException: abc.naresh.Student
+
+
+
+Debugging :  analyzing our source code at  runtime level with real value. 
+	
+
+main ->  printEmiValue ->    HouseLoan : getEMIValue
+
+main ->  printEmiValue ->    PersonalLoan : getEMIValue
+
+Break Point :  apply break point at startig line
+
+	applying break to JVM  exuction 
+
+
+
+
+
+
+10 sys out : 
+
+.  11 : logic 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+How to Configure and Create Bean Objects by Conatiner.
+
+
+
+Dependency Injection:
+====================
+
+A{
+		
+   //methods 
+}
+
+
+B{
+	
+   A a = new A();
+   a.method();
+
+}
+
+
+A{
+		
+   //methods 
+}
+
+
+B{
+	
+   A a;
+   a.method();
+
+}
+
+
+1. DI injection can be achived in b/w Bean Objects. 
+
+
+How many Wayd We can Achive DI ?
+
+XML Config : 
+
+		DI : 
+			1. Setter Injection
+			2. Constructor Injection 
+
+Annotation/Java  Config:
+		DI : 
+			1. Setter Injection
+			2. Constructor Injection 
+			3. Field Injection
+		
+
+XML Config : 
+
+		DI : 
+			1. Setter Injection
+			2. Constructor Injection 
+
+1. DI with Setter Injection: 
+----------------------------
+
+POJO Classes: 
+-------------
+
+  Plain OLD Java Object 
+
+
+  SFW,  Setter Injection,  is injecting values/Dependencies via or by using Setter methods. 
+
+
+In java , 
+
+	How many Types of Data 
+
+	primitive 
+
+		byte
+		short
+		int
+		long 
+		double
+		float
+		char
+		boolean
+
+	String 
+
+
+	non-primitive
+
+
+		Classes
+
+		   1.  Pre-Defined Classes
+
+		   			ArrayList, Hashset, Hashmap.. 
+
+
+
+		   2.  User_Defined Class  :  Injecting other Class Refreneces / Objects 
+                           
+
+
+DI: Setter Injection : with primitive DataTypes + String: 
+=====================================
+
+
+
+
+
+
+
+Coding: 
+----------
+
+
+package com.flipkart;
+
+public class Product {
+
+	//3 properties 
+	private int id;
+	private String productName;
+	private double price;
+	
+	public Product() {
+		System.out.println(" Product Is Created.....");
+	}
+
+	public int getId() {
+		return id;
+	}
+
+	public void setId(int id) {
+		this.id = id;
+	}
+
+	public String getProductName() {
+		return productName;
+	}
+
+	public void setProductName(String productName) {
+		this.productName = productName;
+	}
+
+	public double getPrice() {
+		return price;
+	}
+
+	public void setPrice(double price) {
+		this.price = price;
+	}
+
+}
+
+
+
+Product p1 = new Product();
+p1.setId(1);
+p1.setName("Iphone ");
+
+==================================
+
+<bean id="p1" class="Product">
+</bean>
+
+id   name    price 
+ 0    null    0.0
+
+======================================
+1, phone, 150000
+
+
+<property> child tag of <bean>
+
+
+<bean id="p1" class="Product">
+
+		<property name="id"  value="1"/>
+		<property name="name"  value="phone"/>
+		<property name="price"  value="150000.00"/>
+</bean>
+
+Setter Injection iN SFW can be achived with help <property>
+
+
+
+  int id;
+
+  id = 10;
+
+ 
+
+
+ProductId
+
+
+productId;
+
+setproductId
+
+setProductId
+
+
+isOrderSuccess
+
+
+setIsOrderSuccess
+
+
+setOrderSuccess
+
+
+
+
+Collection Data Types : SI:
+=============================
+ 
+     Order{
+
+     	ArrayList<String>  foodItemNames;  
+
+    }
+
+ArrayList : 
+	
+	child tag called as <list> for <property>
+
+
+Assignment : 
+
+	List<Double>  prices;
+
+
+ Online meeting links 
+
+ 
+DO whatsapp 
+
+
+9293226789   
+
+9000994008
+
+=====================================    10 -jan --------------
+
+
+
+
+LIst<T>
+
+
+Set<T> : 
+
+private Set<String> subjects;
+
+<property name="subjects">
+			<set>
+				<value>Java</value>
+				<value>python</value>
+				<value>java</value>
+				<value>CPP</value>
+				<value>C</value>
+				<value>C</value>
+				<value>CPP</value>
+			</set>
+
+		</property>
+
+Assignment :  Wrapper Classes 
+
+-----------------------------
+
+
+Configuring Key Value Pairs : 
+
+Map : 
+   key-value : 
+
+
+Injecting Another Class References /Objects :
+==============================================
+
+Di of Properties of Data Types of Classes 
+
+"ref" is used as part of <property> tag
+
+"ref" should be configured with a value of bean id of Dependeency Object. 
+
+
+Assignment ": Req :  Setter Injection: 
+
+
+	Define a Product information  : 
+
+	 exp Year , man year, Name , price , company, conatct, email of Product COmpany.
+
+
+		Every Product should contain : Year of Expiry
+		Every Product should contain : Price
+
+
+
+	Define an Order : 
+
+		Order should conatins Product informaton
+
+		Order shoudl contains : Order Informaion : order Id , order Amount 
+
+
+https://drive.google.com/file/d/1FnbtP3yqjTN5arlEGeoUHCrIJcdcBgM7/view?usp=drive_link
+
+After Download
+
+
+
+Constructor Injection: 
+----------------------
+
+
+Spring FW Defining CI , as Values should be injected via Constructors. 
+
+Valus/Object has to be injected at the time of Object Creation :  CI 
+
+
+
+Person p = new Person(1, Dilip);
+
+p.set....
+
+
+
+List Data Type : Injecting Values : 
+
+	<constructor-arg>
+			<list>
+				<value>Poori</value>
+				<value>Dosa</value>
+				<value>Poori</value>
+				<value>Idly</value>
+			</list>
+		</constructor-arg>
+
+
+Set Data Type : Injecting Values :  Wrapper Classes , String 
+	
+		<constructor-arg>
+			<set>
+				<value>Poori</value>
+				<value>Dosa</value>
+				<value>Poori</value>
+				<value>Idly</value>
+			</set>
+		</constructor-arg>
+
+Employee{
+	
+    
+
+    Address address;
+
+    Employee(int id, String name , Address address){
+
+    }
+
+
+}
+
+a1 : Address 
+a2 : Address
+
+e1: Employee
+
+
+
+Bean Auto Wiring:
+-----------------
+
+Bean Auto  Wiring :  Enabling Bean connectivity internally by Container
+
+COnatiner will identify dependecny bean objects and injects Bean objects based on auto wiring configuration. 
+
+
+to enable autowiring in XML, Spring provided an attribute called as "autowire"
+
+by autowire attribute, we can enable autowiring in between bean Objects in many ways. 
+
+autowire will be enable in 4 ways: 
+
+
+-> autowire will support  4 values 
+
+1. no : disabling auto wiring 
+
+			the default value of autowire attribute is "no"
+
+
+2. byName : 
+
+
+	Dependecy Object :  	Product
+
+
+	autowire = byName	
+
+		Spring Conatiner will verify property names of Dependecy objects from the Composite Object level. 
+
+
+		property name :  product   #Product
+		property name :  xyz			#Product
+		property name :  transaction			#Transaction
+
+
+		Now Spring Conatiner identify is there any bean Ids of Dependecy Objects avilbale with property names of dependecy object.  
+
+			property name :  product   #Product : Yes 
+			property name : xyz			#Product  : No 
+			property name : transaction			#Product  : Data Type mis matching 
+
+
+
+			in Composite object level, dependecncy object property name should match to bean Id of Dependency object 
+
+3. byType
+
+	autowire = byType	
+
+		Spring Conatiner will verify property Type of Dependecy objects from the Composite Object level. 
+
+
+		Product ;
+	
+	 	Transaction ;
+
+	 	Now Spring Conatiner identify is there any bean Objects of Dependecy Objects Data Types avilbale or not.  
+
+
+	 	if avilable then that bean object will be injected . 
+
+
+
+Exception in thread "main" org.springframework.beans.factory.UnsatisfiedDependencyException: Error creating bean with name 'order1' defined in file [D:\workspaces\SSM_Dec_27\spring-beans-auto-wiring-by-type\beans.xml]: Unsatisfied dependency expressed through bean property 'product'; nested exception is org.springframework.beans.factory.NoUniqueBeanDefinitionException: No qualifying bean of type 'com.flipkart.orders.Product' available: expected single matching bean but found 2: p1,p2
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.autowireByType(AbstractAutowireCapableBeanFactory.java:1516)
+
+
+4. constructor
+
+	public Order(Product product) {
+		super();
+		this.product = product;
+	}
+	
+
+
+	order1 = new Order();
+
+
+
+autowire=constructor
+
+	Product Data Type Object :  p3, p2, product  :  
+
+				byType:  only 1 Object  
+
+
+				1 > byName :  verifying  Constructor arg name is matching with bean Id 
+
+
+
+
+
+
+	Transaction :   t1
+						p1 					t1
+	public Order(Product product, Transaction transaction) {
+
+						t1
+	public Order(Transaction transaction) {
+		super();
+		this.transaction = transaction;
+	}
+
+
+int i;
+int i=0; 
+
+
+
+Bean Scopes: 
+============
+
+
+
+Default scope is Singleton
+
+singleton
+prototype
+
+request
+
+				Deployed : Server : 
+
+
+				UserLogin
+
+
+	1st time Request : 		/login  new Object for UserLogin
+	2st time Request : 		/login  new Object for UserLogin
+
+
+
+session :  HttpSession 
+
+
+
+application:
+
+
+Annotations / JAVA Based Configuration:
+========================================
+
+
+1.   Spring Project 
+2. Create java CLass
+
+3.  Spring Configuraton Classes: 
+================================
+	
+	A class which is annotated with an annotation called as @Configuration. 
+
+Importance of Config. Class: 
+--------------------------
+		In side Configuration class, we are going write bean Object implementation methods. 
+
+bean Object implementation methods in Config class: 
+=====================================================
+
+		How ever we configured in XML file wikt bean id and class , similarly inside Configuration class, 
+
+		     we are going to write method whichh are returing Bean Object and those are annoatated with @Bean annotaions. 
+
+
+@Bean annotaions: 
+----------------
+
+			This annoation is defined the method should be executed by Conatiner while we are starting our application. 
+
+
+Note :  add Spring-aop.jar to Build path :
+
+
+@Component:
+----------
+
+
+This annotaion is used to make a class as by default spring Bean Class. 
+
+@Component annotation at Class level, which class we have to make by default as a Spring Bean class. 
+
+
+So that, Spring Conatiner, scans all @Component classes and creates Bean objects fro very component class while are loading application. 
+
+
+@ComponentScan: 
+===============
+
+
+This Annotaion is used along with @Configuration class level. 
+
+As Part of this annotaion, we are going to provide, The package names of where we written Component classes. 
+
+
+
+
+
+
+
+
+
+
+
+
+		 
+
+
+Employee{
+	
+
+
+}
+
+
+100 Java classes : 
+
+	I want to  create by default individual objects for every individual Object by Container. 
+
+
+
+
+	One 
+	Two 
+	Three
+
+
+	...
+
+	...
+
+	Hundred 
+
+	100 @Bean  methods 
+	{
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+@Component : 
+
+	We can assign bean id by passing value inside @Component Annoataion. 
+
+	If we are not given any value in side @Component , the Class name is Bean Id but First word given as lower case by Conatiner. 
+     
+
+
+     Products{
+
+
+
+     }
+
+
+
+     Products product
+
+StudentDetails  :   studentDetails
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bean Wiring: 
+=============
+
+
+implicitly Connecting Bean Objects 
+
+
+
+
+TBD:  List of References
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.samsung.com/
+
+samsung : 
+
+
+Infosys : 
+		Samsung
+
+		galaxyai
+
+com.samusung.galaxyai.user
+com.samusung.galaxyai.mobiles
+com.samusung.galaxyai.mobiles.galxy
+com.samusung.galaxyai.tab
+
+
+
+
+@Bean :  If Bean Id provided , that will be given as Bean ID by Conatiner 
+
+If Not Provided , method name will be taken as Bean Id and assigned to Objetc. 
+
+
+---------
+
+Req :    Prescription{
+
+				String	drugName
+				Double 	price
+
+
+			}
+
+	Create Only one bean Object with user defeined data of Properties. 
+
+Req :  
+
+		Create Only one bean Object with default values. 
+
+
+
+
+
+We can Pass Confiugration class data to Conatiner in 2 ways 
+
+1. Constrcutor parameter
+2. register() with refresh()
+
+3. scan() , method
+
+=========================================
+
+
+Bean Scopes: 
+============
+
+	1. singleton
+	2. prototype
+	3. request
+	4. session
+	5. application
+
+DI with Annotations: 
+---------------------
+
+
+1. 	field/property level injection injection
+2.  Setter Injection 
+3.  Constructor Injection
+
+
+1. 	field/property level injection injection
+
+Emp{
+	
+	Address address; 
+
+	Emp(Address address){
+
+	}
+
+	setAddress(){
+
+	}
+
+}
+
+
+
+1. 	field/property level injection:
+----------------------------------
+
+@Autowired : By using this annoataion we can perform Field/Setter/Constructor
+
+
+
+1.  More Than One Bean Object of Dependecy Type:
+
+		Product :  Bean Objects : 1
+		Order : DI : Yes
+
+	Case 1 : Product :  Bean Objects : count > 1
+
+
+
+@Qualifier: 
+-----------
+
+This annotaion will be used along with @Autowired
+
+This annoataion will take value of bean Id , which should be innjected. 
+
+
+@Primary :  
+
+This annoatiaon should be used when a bean Object shpuld be injected b y default when we are not specified @Qualifier with @Autowired. 
+
+
+
+
+
+
+
+
+
+
+A, B : 
+
+A{
+	
+	
+	@Autowired
+	 B b;
+
+
+
+
+
+}
+
+
+B: 1 Bean Object 
+
+
+B : more than One Bean Object : b1, b2 , b3, b4
+
+      b4 : should be injected by default by Conatainer: 
+
+
+
+
+
+
+
+
+    Interface :  One 
+
+      Classese :  Two, Three implements One
+      =======================================
+
+
+      One o1 = new One();  : In valid   
+
+ 
+      One o2 = new Two();  Valid :  Interface can refer impl class Object. 
+
+      One o3 = new Three();  :  Valid : 
+
+
+      Two t1 = new Two();  : valid : 
+
+
+      Two t2 = new Three();  : In valid 
+
+
+      Two t3 = new One();  : Valid 
+
+
+      Three three = new Three(); : Valid 
+
+
+
+
+    Interface :  One 
+
+      Classese :  Two, Three implements One
+      =======================================
+
+
+
+Two {
+
+
+	One o1;
+
+
+}
+
+
+
+Xyz{
+	
+
+	One o1;
+	One o2;
+
+}
+
+
+Xyz{
+	
+
+	One o1 = new Two();
+	One o2 = new Three();
+
+}
+
+		
+
+
+DI with Interfaces and Implemented classes: 
+===========================================
+
+
+Interface can hold/refer it's own implemted classes instances; 
+
+
+
+
+Component : 
+
+			Lion lion = new Lion();
+
+
+Zoo:
+
+ 			Animal animal = lion;
+
+
+
+animal.getName();
+
+
+
+
+ Interface contains one Impl class 
+
+ Interface contains more than one Impl class 
+
+ 		DI will be failed , 
+
+
+ 		Use @Qualifier annoatiaon : Provide : bean Id Impl class Object 
+
+
+
+ 
+Assignemnt : 
+ Interface contains more than one Impl class 
+ 					Impl class conatins more than One Bean Object. 
+
+
+
+==================================================================
+
+
+Spring Boot : 
+=============
+
+   Spring Boot makes it easy to create stand-alone, production-grade Spring based Applications that you can "just run".
+
+
+
+
+   Spring Boot Application:
+   -------------------------
+
+
+   1. Spring Application : Core : 
+
+   			1. Creating Project 
+   			2. Doenload/Get The jar file of Spring FW
+   			3. Configuring jar files with our project 
+   			       jar files added at class path : 
+   			4. Writing Programs 
+   			5. XML/annoataions : Bean Objects 
+   			6. Getting Bean Object from the Conatiner. 
+
+
+   	1. Spring Boot Application : Core : 
+
+
+
+   			Spring Boot Provided an option for creating Spring Boot Project with required modules of project. 
+
+
+   		Spring Boot provided Spring Initilizer Concept. 
+
+   		URL : 		https://start.spring.io/
+
+
+
+
+
+
+
+
+
+   			1. While Creating Project 
+
+   			2. Doenload/Get The jar file of Spring FW
+   			3. Configuring jar files with our project 
+   			       jar files added at class path : 
+   			4. Writing Programs 
+   			5. XML/annoataions : Bean Objects 
+   			6. Getting Bean Object from the Conatiner. 
+
+
+
+Maven : 
+
+		Build Management Tool 
+
+
+
+	pom.xml : Project Object Model : 
+
+
+
+	Maven Goals: 
+
+			clean  		:    Cleanup of generated /compiled content from source
+			install  :  Compiling and Creating packaging 
+
+
+Gradle
+
+// https://mvnrepository.com/artifact/org.springframework/spring-core
+implementation group: 'org.springframework', name: 'spring-core', version: '5.3.29'
+
+
+Spring Boot Application will be created with an Option called as Spring Initilizer : 
+
+
+
+
+Spring Initilizer : 
+
+
+
+
+STS :  Spring Tool Suite : IDE 
+
+
+   They Customized EClipse for the Spring Boot Application Devlopment Environment. 
+
+
+
+@SpringBootApplication:  
+
+
+XML Config. 
+
+
+Create Employee and Address beans and make Sure Employee is Created and Injected with reference of Address.
+
+
+   
+  com.naresh.netbanking.one
+      com.naresh.two.one
+       com.three
+        com.naresh.netbanking.one.four 
+
+
+@SpringBootApplication : 
+
+
+				@ComponentScan :  Scanning Component classes 
+
+				@Configuration : To Define Bean Objects/Methods 
+
+				@EnableAutoConfiguration:  
+
+				
+
+@SpringBootApplication : 
+        This annoataion is enabling Component scan Functionlity. 
+
+
+
+
+Spring FW : 
+
+		1. Java Prtoject 
+		2. Add Jars 
+		3. Creat Java File : Student  : Component
+		4. Creating Configuration Class: Inside Defined @ComponentScan
+
+					@Bean Method 
+
+		5. Creating Conatiner 
+				AnnotationConfigAppContext context = new AnnotationConfigAppContext();
+				context.register(SpringBootExamplesApplication.class Class);  // Configuration Classes 
+
+
+
+Spring Boot : 
+
+		1. Prtoject 
+		3. Creat Java File : Student  : Component
+		5. Creating Conatiner 
+			
+
+				
+
+
+
+
+
+basePackage: 		com.dilip.spring.boot 
+
+		com.dilip.spring.boot.one
+			Employee
+		com.dilip.spring.boot.ddjkfdjf.sdfjfkjdsfjkjk
+
+ 
+		com.dilip : 
+			Employee
+
+		is This Comes UnderPackage Section 
+			com.dilip.spring.boot
+		}
+
+
+
+
+Req: 
+
+2 Employee Objects : 
+
+	Inject Emp in side Organization
+			Field Injection
+
+@Component
+Emp{
+	
+
+}
+
+@Bean : Emp 
+
+@COpmonent
+
+Org{
+	
+	@Qualifier
+	@Autowired
+	Emp employee; 
+}
+
+
+
+
+
+1. we can define COnfiguration Classes under base package, the Spring Boot Implicitly scans Configuration classes automatically. 
+
+
+
+
+Ctrl+shft+T
+
+
+
+Description:
+
+Field emp in com.dilip.spring.boot.organization.Organization required a single bean, but 2 were found:
+	- employee: defined in file [D:\workspaces\SBMSDec27Batch\spring-boot-autowired\target\classes\com\dilip\spring\boot\organization\Employee.class]
+	- employeeTwo: defined by method 'employeeTwo' in class path resource [com/dilip/spring/boot/organization/SpringBeansConfiguration.class]
+
+
+
+
+autowire = 
+
+
+byName :  property name compared with bean id of Dependecy calss. 
+
+		emp  :  employee,employeeTwo
+
+
+	@Autowired
+	private Employee emp;
+
+
+
+No @Qulifier and @Primary w.r.to Employee Class
+
+Org{
+	@Autowired
+	private Employee employee;
+}
+	
+				
+				Employee Bean Objects 2 : employee,employeeTwo
+
+
+
+When we have more than one Dependecy Object of Dependency Type, Internally IOC conatiner verifies 
+		if(declared)
+		    @Qualifier, @Primary 
+		       @Qualifier : Respective Bean Object injected. 
+		     @Primary : 
+		     	When no @Qualifier is prested , then Respective primar marked Bean Object injected. 
+
+		if(not declared)  
+				IOC conatiner, By Name functionality. 
+
+					byName :  property name compared with bean id of Dependecy calss. 
+
+						Employee: employee, employeeTwo 
+
+
+none
+byName
+byType
+constructor
+
+
+
+
+
+
+@Value : 
+
+constructor injection 
+
+Bean Life Cycle : Spring , Spring Boot  
+
+
+Runners in  :  Spring Boot 
+
+
+Constructor injection  in Annotation:
+======================================
+
+
+
+public class Orders {
+	
+	
+	private int orderID;
+	private String userNAme;
+	private double amount;
+	private Product product;
+
+	public Orders(int orderID, String userNAme, double amount, Product product) {
+		super();
+		this.orderID = orderID;
+		this.userNAme = userNAme;
+		this.amount = amount;
+		this.product = product;
+	}
+	
+}
+
+
+Orders o = new Orders();  No 
+
+Orders o = new Orders(123,"Dilip");
+
+
+
+
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2024-02-08T08:18:09.731+05:30 ERROR 16508 --- [           main] o.s.b.d.LoggingFailureAnalysisReporter   : 
+
+***************************
+APPLICATION FAILED TO START
+***************************
+
+Description:
+
+Parameter 0 of constructor in com.dilip.spring.boot.ci.orders.Orders required a bean of type 'int' that could not be found.
+
+
+Action:
+
+Consider defining a bean of type 'int' in your configuration.
+
+
+
+
+@Value : 
+
+========
+
+By @Value annoatation, we can configure/provide default avlues for the Constructor PArameters. 
+
+
+as part @Value, we are configuring real values which are passed as constructor args. 
+
+
+
+@Value: 
+
+----------
+   to initilize values to properties.
+
+
+
+
+public  class Employee{
+
+		@Value
+	   id 
+	   name
+	   salary
+
+
+}
+
+	employee
+	     id=0
+	     name=null
+	     salary=0.0
+
+	  id=100
+	  name=Dilip
+	  salary=88888
+
+
+
+@Component
+class DbConnection{
+	
+     url 
+     name
+     pwd
+
+
+
+
+
+}
+
+
+DbConnection:
+
+		url=null
+		name=null
+		pwd=null
+
+   url=localhost:1521
+   name=dilip
+   pwd=dilip
+
+
+
+
+   It's recommnded to separate configuration data from Java Logics. 
+
+   Maintain Config data separately and access daat from there. 
+
+   maintaing as part of Properties file. 
+
+
+
+   10 classes : 
+
+
+
+    @Value("localhost:1521:XE")
+	private String url;
+	
+	@Value("dilip")
+	private String userName;
+	
+	@Value("dilip")
+	private String password;
+
+	     20 Places 
+
+	     password chnaged to :  dilip => abc1234
+	20 Places 
+	    changes
+
+
+
+
+2nd approach : 
+
+
+url=localhost:1521
+username=dilip
+password=dilip
+
+	@Value("url")
+	private String url;
+	
+	@Value("userName")
+	private String userName;
+	
+	@Value("password")
+	private String password; 
+	       20 classes 
+
+
+	        password chnaged to :  dilip => abc1234
+
+	        coade chnages :  1 places 
+
+
+
+syntax : 
+			@Value("${key-name}")
+			proerty name 
+
+				searching key-name inside application.properties file and if avilable, picking the value and then injecting 
+
+
+
+properties files, 
+
+
+BookMyShow{
+	
+	String 
+	int 
+	Double
+	booolean
+	NetBanking
+		username
+		pwd
+	CreditCard
+	    number
+	    cvv
+
+}
+
+
+=========
+
+
+    Spriing Bean Life Cycle:
+    =========================
+
+    life cycle of a Spring Bean Object:
+    ===================================
+
+
+    life cycle:  birth to death 
+
+    Bean Object Life Cycle:   Object initilization to Object Destroyed. 
+
+
+
+
+    Application Context is Created : Container Created.
+
+
+    Bean Object : 
+
+    		1 -> Creating Bean Object : Birth 
+
+    		2	->  Bean initilization Method   : 
+
+    				life cycle method : only one time executed by Conatiner, follwed by Object Creation
+    		        -> Nothing will be executed , not provided life cycle method of Bean 
+
+   	
+    		3 -> Now Spring Bean Object is ready , for use 
+
+
+    				Use Bean Objects : 
+
+
+    		4. When we are clsoing the Application Context , immediately 
+
+    		        destruction method : this will be executed only once at the time of Application Context is getting closed. 
+
+    		 -> Application execution getting terminated. 
+
+
+Defining life cycle method in Bean Class: 
+========================================
+
+
+Spring Context is getting ready...
+
+
+
+Order Bean Object is Created
+
+
+  ........
+
+com.dilip.spring.boot.orders.Order@2679311f
+Utilized Bean Objects of Order : com.dilip.spring.boot.orders.Order@2679311f
+1111
+
+
+
+Spring Context is getting closed...
+Spring Context is  closed...
+=============================
+
+
+Spring Context is getting ready...
+
+
+Order Bean Object is Created
+InSide Bean Life cycle method : Initilization : afterPropertiesSet
+
+com.dilip.spring.boot.orders.Order@2e34384c
+Utilized Bean Objects of Order : com.dilip.spring.boot.orders.Order@2e34384c
+1111
+
+
+Spring Context is getting closed...
+InSide Bean Life cycle method : dispose : destroy
+Spring Context is  closed...
+
+
+
+
+===========================
+
+
+
+We can Define in 2 wyas : Bean Life cycle methods 
+
+
+	1. By Using Interface 
+
+
+			Bean class has to be implement pre defined annotations 
+
+			 InitializingBean :  Interface : 
+
+			 		only  one 
+			 DisposableBean :  Interface 
+			 		only one 
+
+
+
+	2. By Using Annotations
+
+				->  We can Define methods with any name , and those methods we are going to annotate based on initilization and dispose functionality. 
+
+
+				@PostConstruct  :   initilization
+				@PreDestroy     :    Distruction
+
+
+
+Assignemnt : 
+		XML : 
+
+	<bean		init-method ="configureData" 			destroy-method = "removeConfig" >
+
+
+
+
+
+Runnners In Spring Boot:
+------------------------
+
+
+
+
+Runners are interfaces provided by Spring Boot.
+
+
+
+Runners Logic will be executed only once when we are starting our application. 
+By Using Runners, We can execute a logic right After Spring Application Context is Ready.
+
+		Spring Application Context is Ready :  Container i Created and  hten Cpnatiner will process all Component classes and bean methods i.e. Creating Bean Objects
+
+
+i.e. Spring Conatiner executes Runners Implementation.   
+
+
+2 Runners we have : 
+
+		1. CommnadLineRunner
+			Command Line Arg values are passing as array of values  :  ApplicationArguments
+
+		2. ApplicationRunner
+			Command Line Arg values are passing as an Object :  ApplicationArguments
+
+
+Req : 
+
+    Send an Email to application owner once application is started suucessfully. 
+
+
+java SpringBootRunnersApplication abc@flipkart.com
+
+ 
+Flipkart : 
+
+
+
+
+
+
+1. Create a class and Impl. CommandLineRunner Interface
+
+2.  Runners are also should be provided as Bean Implementation. 
+
+	Declare @Component on Runner class. 
+
+
+
+Flow of Runners Execution : 
+==============================
+
+Before Application Context is Ready...
+
+Order is Created
+Product is Created. 
+Runner One IS Created...
+
+This IS Runner One is Executed 
+
+
+After Application Context is Ready...
+
+
+@Order :  Used for aching executing Runners in a sequential order. 
+
+negative value will have highest priority. 
+
+
+
+
+Runner1
+Runner2
+Runner3
+Runner4
+Runner5
+
+
+Same Order : 
+
+RunnerFour  : 1
+RunnerOne	: 3
+RunnerTwo   : 2
+
+
+RunnerFour 1, RunnerTwo  -2, RunnerOne 4
+
+
+
+
+
+
+
+
+Spring Boot JDBC : 
+=================
+
+JAva Data base connectivity
+
+JDBC  API : 
+
+		Classes and Interfaces
+
+JDBC Steps: 
+
+		Select Query 
+
+	1. Driver Manager : Driver Jar File : 
+
+				Connectivity B?W JAVA Lang to Database 
+
+	2. Connection Object :  
+				URL 
+				USER NAME 
+				PASSWORD 
+
+	3. By Using Connecton Object, we are creating Statement Object 
+
+				Statement : 
+
+						select * from employee;
+
+	4. Execution Of Query : 
+
+	5. Closing Connection 
+
+	6. Exception Handling  :  SQLException
+
+Insert Data :  Dept :
+
+	1. Driver Manager : Driver Jar File : 
+
+				Connectivity B/W JAVA Lang to Database 
+
+	2. Connection Object :  
+				URL 
+				USER NAME 
+				PASSWORD 
+
+	3. By Using Connecton Object, we are creating Statement Object 
+
+				Statement : 
+
+						insert Query
+
+	4. Execution Of Query : 
+
+	5. Closing Connection 
+
+	6. Exception Handling  :  SQLException 
+-------
+
+
+
+1000 Times :  
+
+Spring Boot JDBC : 
+
+===================
+
+				URL 
+				USER NAME 
+				PASSWORD 
+
+
+
+	Statement : 
+				Statement : 
+
+						Select/update/insert Query
+
+	4. Execution Of Query :
+	
+
+-------
+
+Abc{
+	
+
+	@Autowired
+    DbStatement stamt;  //Stament Object 
+
+
+    stamt. Select 
+}
+
+XYZ{
+	
+
+	@Autowired
+    DbStatement stamt;  //Stament Object 
+
+    stamt insert
+
+}
+
+
+
+
+
+JdbcTemplate : 
+-------------
+
+
+
+
+Select * from Emp; 
+
+Abc{
+	
+
+@Autowired
+JdbcTemplate template;
+
+  Result =   template.query("select * from emp ");
+
+}
+
+
+XYZ{
+	
+
+@Autowired
+JdbcTemplate template;
+
+
+	template.update(insert i);
+
+
+}
+
+
+
+
+Project Setup :
+--------------
+
+
+1. Spring Boot :  
+
+		Dependency : 
+
+				Spring Data JDBC
+				Driver jar file :  orcale driver/ my Sql 
+
+
+
+2.  Configure DB Details : 
+
+
+	URL USER NAME PWD 
+
+	URL :    jdbc:oracle:thon@localhost:1521:orcl
+
+
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
+spring.datasource.username=c##dilip
+spring.datasource.password=dilip
+
+
+
+3.  Start Your Spring Boot Application 
+
+
+
+
+
+
+================================
+
+
+
+
+
+DB install: 
+
+SQLDeveloper : S/W : Orcale DB 
+
+Downlaod SQLDeveloper'
+
+install :   next ---> Next 
+
+
+SQL Devloper : 
+
+		 +   New Connection 
+
+
+		 	Connnection Name 
+		 	user name  of Your DB 
+		 	password 
+		 	Url port 
+		 	service ID 
+
+		 			Test : Success 
+
+		 	Save 
+
+Goto : Connection Name : right click :  
+
+
+EClipse VS IntelliJ
+
+
+Dbeaver
+
+========================================
+
+
+
+Table :    Notifications
+
+	email		notification_type  notification_value      decsription
+
+				TEXT 			77334455222				Mobiel Numunber
+   
+				EMAIL             dilip@gmail.com        This is  email 
+
+				PUSH				App Details 		 Only Mobile 
+
+
+				create table Notifications(notification_type varchar2(10) , notification_value varchar2(50), description varchar2(50));
+
+Req :   insert : 
+
+			Query :  
+
+
+
+INSERT  INTO  NOTIFICATIONS  values('PHONE','122332', 'Mobile Details Provided');
+
+
+Spring JDBC : 
+
+
+@Value("${spring.datasource.password}") 
+
+
+======================
+
+
+Adding Employee Information : 
+
+==============================
+
+
+
+Positional Parameters : 
+==========
+
+
+
+"INSERT  INTO  NOTIFICATIONS  values('EMAIL','abc@xyz.com', 'Email Notification')"
+
+
+"INSERT  INTO  NOTIFICATIONS  values(?,?,?)"
+
+
+
+id, name desc :  
+
+Test, 8888888, Mobile Number
+
+Email, xyz@abc.com, email coomunication , Mobile Number
+"INSERT  INTO  NOTIFICATIONS  values(?,?,?)"
+
+
+Insertinfg Data into Employee Tabele: 
+
+Table is ready
+
+Query :  
+
+Please make Sure Query Preparation as follows. 
+
+First Write query in SQL editor 
+
+
+
+Assignemnt :   update Query : 
+
+
+
+Select Operations : 
+================== 
+
+
+Fetching Data/ Reading Data / loading Data : 
+============================================
+
+Req : Load all emplyee records : 
+
+Query :  select * from employee
+
+
+Row MApper : 
+
+----------
+
+
+Pojo class : 
+
+
+=====> make sure java property data type is matching to table column data types 
+
+
+CREATE TABLE Employee(emp_id NUMBER(10), 
+name varchar2(50), email varchar2(60), salary number(10,2));
+
+
+
+
+====>  Make Sure Column names as PropertyNames: 
+
+
+long emp_id 
+String name
+String email
+double salary; 
+
+
+
+
+		String loadEmpQuery = "select * from EMPLOYEE";
+
+		// After executing select Query, once Getting  RS, pleae map result set data to List of Objects belongs to type EmployyeDetails
+
+	List<EmployyeDetails> listOfEmployees = jdbcTemplate.query(loadEmpQuery, 
+								new BeanPropertyRowMapper<EmployyeDetails>(EmployyeDetails.class));
+		listOfEmployees.forEach(System.out::println);
+
+
+Order{
+	
+
+
+}
+
+
+
+List<EmployyeDetails> listOfEmployees = jdbcTemplate.query("select * from Order", 
+								new BeanPropertyRowMapper<Order>(Order.class));
+
+
+
+
+Assignment : 
+===========
+
+Table & Columns names : 
+
+	Table Name : ordr_dtl 
+
+			column names:	
+
+			 pK String value         	ordr_dtl_id
+			  String        			email_id
+			    String       			order_sts
+			      float value     		order_amt
+			          boolean 			is_order_placed
+			          long 				contact_number
+
+
+
+
+1. Insert Data 
+2. Update /Delete 
+
+3. Select Query : 
+
+		List Of Records ; 
+
+				Java Pojo: OrderDetails
+						//ordr_dtl_id;
+						String   orderDetailId;
+
+OrderDetails  implements RowMapper{
+	
+	//override 
+	mapRow()
+		{
+			Rs : ordr_dtl_id : Pojo : orderDetailId
+
+		}
+
+
+}
+
+
+"select * from ord_dtl",
+				new BeanPropertyRowMapper<OrderDetails>(OrderDetails.class)
+
+================================
+
+
+	Phone : String :  Count Of Digits is always 10 : 
+	true 
+	false 
+
+	123-456-7890   :   charStream :  filter( Charcater::isDigit).count==10;
+
+
+
+	777 777 777
+
+===================================================================================
+
+
+Req :    // Req :  Load Employees inforamtion : based on salary
+	
+	==============================================================
+
+
+
+
+Spring Data JPA : 
+=================
+
+
+JPA:  
+
+	This Specification is realeased by  Java Lang.
+
+	Java/jakarta Persistence Api 
+
+
+	JPA :  JPA is a Specification to represnt ORM functionalites 
+
+
+	Specification :  
+
+	This will explain us about 	Set of Rules and Constraints to achive a functionlaity. 
+
+
+	ORM :  
+
+			Object Realtional Mapping 
+
+
+
+
+Spring Boot JPA : 
+----------------
+
+
+1. Create Spring Data JPA module application
+
+
+Modules :   Spring Data Jpa
+				Driver jar file 
+
+				Finish
+
+
+Add Properties : 
+
+
+
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
+spring.datasource.username=c##dilip
+spring.datasource.password=dilip
+
+
+2. Create a Db table 
+
+
+
+CREATE TABLE Order_Details(oid NUMBER(5), email varchar2(50), 
+name varchar2(50), no_of_items NUMBER(2),amount number(5,2) , 
+city varchar2(50), gender varchar2(10) );
+
+==================================
+
+
+
+
+1.  Entity classes:
+===================
+
+
+ Entity class is a POJO class. 
+ An Entity class Represents Database Table Structure.  
+
+
+ JPA Provided an annotation called @Entity   
+ Pojo class should be marked with @Entity on lass level.
+
+
+
+
+
+Table Name   :  Order_Details
+			Col : oid NUMBER(5)    PK 
+			col : email varchar2(50)
+			cOl : name varchar2(50)
+			Col :  no_of_items NUMBER(2)
+			Col: amount number(5,2)
+			Col: city varchar2(50)
+			Col : gender varchar2(10) 
+
+
+@Table : This annoataion i sused along with @Entity class. 
+ 			This annotation is decalred at class level. 
+ 			This annoataion is used to define , table name from the data base. 
+
+
+@Column : 	
+			This annotaion will be used at property level. 
+
+			This annotaion is used to Define column name of table. 
+
+
+Create table with pK coloumn
+
+
+@Id: 
+----
+
+
+Entity 'com.dilip.spring.boot.jpa.entity.OrderDetails' has no identifier (every '@Entity' class must declare or inherit at least one '@Id' or '@EmbeddedId' property)
+
+
+JPA is suggesting defiing Primarky Key column per tABLE.
+
+
+->  JPA Repository :
+--------------------
+
+
+Spring JPA Module Defined a concept called as JPA Repository. 
+
+
+JPA Repositories are PreDefined Interfaces given by Spring JPA Module. 
+
+1. CrudRepository
+2. JpaRepository
+
+To define or perfrom Data base operations with Entity classes. 
+
+
+
+
+
+-------------------------
+
+@Entity
+@Table(name = "Order_Details")
+public class OrderDetails {
+	
+	
+	@Id
+	@Column(name = "oid")
+	private int orderId;
+
+	@Column(name = "email")
+	private String emailId;
+
+	@Column(name = "name")
+	private String name;
+
+	@Column(name = "no_of_items")
+	private int noOfItems;
+
+	@Column(name = "amount")
+	private double amount;
+	
+	@Column(name = "city")
+	private String city;
+
+	@Column(name = "gender")
+	private String gender;
+
+	
+}
+
+
+----------------
+
+OrderDetails order1 = new OrderDetails(1,"dilip@gmail.com", Dilip, 2222, HYD.....);
+
+save inforamtion which is vailable inside an object of order1. 
+
+
+Insert into Order_Details values(1,'dilip@gmail.com ')
+
+
+delete order id is : 1 : 
+
+
+======================================
+
+
+We have to Define a repository for an entity class. 
+
+
+Create an interface which is extended from either CrudRepository or JpaRepository. 
+
+
+=========
+
+
+Autowire Dependency of Repository into Componet clas, where we are triggering Db calls/operations. 
+
+By using Repository, we can perform Database operations now. 
+
+
+ 
+
+===============
+
+Hibernate: select od1_0.oid,od1_0.amount,od1_0.city,od1_0.email,od1_0.gender,od1_0.name,od1_0.no_of_items from order_details od1_0 where od1_0.oid=?
+
+
+Hibernate: insert into order_details (amount,city,email,gender,name,no_of_items,oid) values (?,?,?,?,?,?,?)
+
+
+ delete from order_details where oid=?
+ =========================
+
+
+ CREATE TABLE user_details(user_id NUMBER(5), email varchar2(50), 
+name varchar2(50), contact NUMBER(10),age number(3) , 
+city varchar2(50), gender varchar2(10) );
+
+
+
+Hibernate: select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0
+
+
+Hibernate: delete from user_details where user_id=?
+Hibernate: delete from user_details where user_id=?
+Hibernate: delete from user_details where user_id=?
+ Hibernate: select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0 where ud1_0.user_id=?
+UserDetails [userId=101, email=one@gmail.com, name=One, conatct=11111111, age=21, city=HYD, gender=MALE]
+
+
+
+
+	
+
+
+Hibernate: select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0 where ud1_0.user_id=?
+
+
+
+
+
+JpaRepository  V/S  CrudRepository:
+-----------------------------------
+
+JpaRepository is derived from CrudRepository. 
+
+JpaRepository : Child 
+CrudRepository : Parent 
+
+CrudRepository given functionalities to perform Crud Operations
+
+JpaRepository given functionalities to perform Crud Operations anong with that This one provided fetures 
+Sorting and Paginataion
+
+
+
+
+ Data with Non-Primary Key column:
+ ==================================
+
+
+ Custom Query methods: 
+ ====================
+
+ User Defined Query Methods inside Repository. 
+
+ Req : 
+    Data based in City Name 
+    		select * from users where city='HYD'
+
+
+Custom findBy methods:
+------------------------
+
+By using JPA custom findByMethods, we can define our own findBy methods based on coulumns of a table. 
+
+Synatx : 
+
+			findBy<PropertyNameOfEntityWhichIsRepresetningTableCoulmn>(DataTypeOfPropertyFromEntityClass paramNames...);
+
+Note : We have to make sure Property Name First Character Should be Capital Letter. 
+
+
+city : City
+
+
+fisrtName;
+
+
+
+
+   findBycity : Invalid
+   findByCity  : Valid 
+
+   findByFisrtName
+
+
+findByCity(....)
+
+How many Method params: 1
+DataType :  Double  
+
+
+
+int year;
+
+findByYear(short year)
+
+
+ List<UserDetails>     findByCity(String cityName);
+
+
+ Hibernate: select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0 where ud1_0.city=?
+
+
+UserDetails [userId=104, email=four@gmail.com, name=Four, conatct=444444, age=25, city=HYD, gender=MALE]
+UserDetails [userId=105, email=fivae@gmail.com, name=Five, conatct=555555, age=25, city=HYD, gender=FEMALE]
+UserDetails [userId=101, email=one@gmail.com, name=One, conatct=11111111, age=21, city=HYD, gender=MALE]
+
+
+1. Add Custom findBy inside Repository. 
+
+
+Req : 
+
+Get Data Based on City and Gender
+
+FEMALE in HYD 
+
+select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0 where ud1_0.city=?  and gender=?
+
+
+findByCityAndGender(String gender, String city);
+
+
+
+Hibernate: select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0 where ud1_0.city=? and ud1_0.gender=?
+
+
+UserDetails [userId=105, email=fivae@gmail.com, name=Five, conatct=555555, age=25, city=HYD, gender=FEMALE]
+
+
+
+==============================
+
+
+Internal Implementation of JAP repository: 
+------------------------------------------
+
+By Using Proxy Design Pattern they are provdining implementation at runtiime and creating an instance and injected into interface reference. 
+
+
+============================
+
+Use Cases of writing Emtity classes and Defining Tables: 
+========================================================
+
+
+How to Define Entity classes 
+
+
+
+From Entity Classes How to genearte Tables: 
+
+
+
+How to Define Entity classes : 
+
+==================================
+
+
+Tables ->  Entity Class 
+
+
+CREATE TABLE "C##DILIP"."USER_DETAILS" 
+   (	"USER_ID" NUMBER(5,0), 
+	"EMAIL" VARCHAR2(50), 
+	"NAME" VARCHAR2(50), 
+	"CONTACT" NUMBER(10,0), 
+	"AGE" NUMBER(3,0), 
+	"CITY" VARCHAR2(50), 
+	"GENDER" VARCHAR2(10));
+
+
+
+1. If Table name and Entity Class Name , both are same , then it's optional to define @Table annoataions
+
+
+
+-> similarly, When Column names and Property names are same, then @Column Optional. 
+
+
+--------------------------------------------
+
+From Entity Classes How to genearte Tables: 
+
+===============================================
+
+JPA providing like we can genearte table inside Database with help of entity classes. 
+
+Req : 
+
+PatientSummary
+-------------:
+	pid
+	fname 
+	lname
+	email
+	gender
+	contact
+
+
+1. Created Entity Class
+2. Add a property 
+
+   spring.jpa.hibernate.ddl-auto=
+
+
+1. none   : default value 
+      Disabling executing ddl queries automatically by JPA 
+
+
+2. validate  : 
+      
+
+      validation will happens wheather table presented or not w.r.to every entity class and table details defined inside entity class. 
+
+
+3. update
+	
+		  JPA validates  table presented or not w.r.to every entity class and table details defined inside entity class. 
+
+		  if Present , JPA not doing anyhting.
+		  If not presented, JPA create tables 
+		  			Hibernate: create table pat_summary (pat_id number(10,0) not null, contact number(19,0) not null, email varchar2(255 char), first_name varchar2(255 char), gender varchar2(255 char), last_name varchar2(255 char), primary key (pat_id));
+
+
+4. create
+  	    
+
+  	    JPA will drops all the tables associated to entity classes and then newly agaian tables are  created by JPA FW. 
+
+
+  	    while terminating app execution tables are droped or not? Not Dropped
+
+
+5. create-drop: 
+
+
+    JPA will drops all the tables associated to entity classes and then newly agaian tables are  created by JPA FW, when application getting tterminated or stopped, tbales will be dropped. 
+
+
+  	 
+
+Lombok: 
+------
+
+
+      Utility Tool fro auto generating Stters/Getters/Constructors etc... 
+
+
+   
+
+
+   Why Select Query in Insertion : 
+   ---------------------------------
+
+
+Update operations : 
+-----------------
+
+   Hibernate: select u1_0.id,u1_0.email,u1_0.is_selected,u1_0.name,u1_0.salary,u1_0.year from interview_users u1_0 where u1_0.id=?
+
+
+Hibernate: update interview_users set email=?,is_selected=?,name=?,salary=?,year=? where id=?
+
+
+
+
+Native SQL Queries execution : 
+------------------------------
+
+
+
+JPQL : Java Persistence Query Lang :
+======================================
+
+     Based JPA : Create JPQL : execute those 
+
+
+Feb-26:
+=======
+Native SQL Queries execution : 
+------------------------------
+
+
+Req :  Load data From Table:m
+
+
+select * from interview_users; 
+
+Steps:
+------
+
+
+
+
+
+1. Define a abstract method inside Repository Interface. 
+
+2. No Naming Convention folowed here. 
+
+3. JPA provided an annotation called as @Query to define , which SQl Query has to be executed inside DB. 
+
+4. @Query declared on created abstract method. 
+
+
+5. If it is Native SQl query, define another arrtibute of @Query annotation called  nativeQuery with true. 
+
+
+by Default nativeQuery = false , 
+
+@Query(value = "select * from interview_users" ) , Considering as JPQL Query 
+
+@Query(value = "select * from interview_users" , nativeQuery=true) , Considering as JPQL Query 
+
+
+Hibernate: select * from interview_users
+
+
+Users(id=1, name=Dilip, salary=50000.0, year=1990, isSelected=true, email=dilip@gmail.com)
+Users(id=2, name=Abc, salary=35000.0, year=1990, isSelected=false, email=abc@gmail.com)
+
+
+
+select u from Users u
+
+
+Hibernate: select u1_0.id,u1_0.email,u1_0.is_selected,u1_0.name,u1_0.salary,u1_0.year from interview_users u1_0
+
+
+Users(id=1, name=Dilip, salary=50000.0, year=1990, isSelected=true, email=dilip@gmail.com)
+Users(id=2, name=Abc, salary=35000.0, year=1990, isSelected=false, email=abc@gmail.com)
+[2m
+
+		
+
+
+
+Req : 
+
+-----
+
+Load data based on Users emailId. 
+
+select * from interview_users where email='dilip@gmail.com'
+
+
+
+
+Passing Dynamic Data To SQl queries: 
+
+==================================
+
+
+select * from interview_users where email=.............????
+
+
+2 ways : 
+
+
+1. Index Positional/Query Parameters 
+2. Named Positional/Query params
+
+
+1. Index Positional/Query Parameters :
+
+======================================
+
+By Using Index Postional Params, we have to define index with ? where we want to pass the Data. 
+
+	index:    Numbers 
+
+
+	Syntax :    ?<indexNumber> 
+	Ex :  
+
+	     ?1
+
+
+select * from interview_users where email=?1 
+
+Req :  Load based on city and gender 
+
+select * fom user_details where city=?1 and gender=?2
+
+
+Hibernate: select * from user_details where city=? and gender=?
+UserDetails [userId=104, email=four@gmail.com, name=Four, conatct=444444, age=25, city=HYD, gender=MALE]
+UserDetails [userId=105, email=fivae@gmail.com, name=Five, conatct=555555, age=25, city=HYD, gender=MALE]
+
+
+
+2. Named Positional/Query params
+
+
+@Transactional
+@Modifying
+
+DML : 
+
+
+Req :  select * fom user_details where city=.... and gender=...
+
+
+Syntax:   :<nameOfThePosition> 
+
+			Ex 			:gender
+						:cityName
+
+		 select * fom user_details where city=:cityName and gender=:gender
+
+
+
+	@Param :  
+
+		Annotation to bind method parameters to a query via a named parameter.
+
+
+select * from user_details where city=cityName and gender=gender
+
+select * from user_details where city=:cityName and gender=:gender
+
+cityName : @Param
+gender : @Param
+
+
+
+Hibernate: select * from user_details where city=? and gender=?
+UserDetails [userId=104, email=four@gmail.com, name=Four, conatct=444444, age=25, city=HYD, gender=MALE]
+UserDetails [userId=105, email=fivae@gmail.com, name=Five, conatct=555555, age=25, city=HYD, gender=MALE]
+
+
+
+
+DML Query : 
+============
+
+
+update user inforamtion like contact when user id existed. 
+
+
+Query: update user_details set contact=:contact where user_id=:uid
+
+
+JPQL: 
+----
+
+
+Load Users Inforamtion: 
+
+JPQL :  select u  from UserDetails u
+
+
+
+
+Sorting &  Paginataion : 
+========================
+
+Sorting: 
+=======
+
+SQL : Order By .... DESC
+
+
+JPA :  
+
+findAll(Sort.by("userId"))
+
+select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0 order by ud1_0.user_id
+
+
+Hibernate: select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0 order by ud1_0.user_id
+
+UserDetails [userId=102, email=two@gmail.com, name=Two, conatct=22222222, age=25, city=BANG, gender=FEMALE]
+UserDetails [userId=104, email=four@gmail.com, name=Four, conatct=444444, age=25, city=HYD, gender=MALE]
+UserDetails [userId=105, email=fivae@gmail.com, name=Five, conatct=555555, age=25, city=HYD, gender=MALE]
+UserDetails [userId=106, email=six.com, name=Six, conatct=1234567890, age=24, city=BANG, gender=MALE]
+
+
+Hibernate: select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0 order by ud1_0.user_id desc
+
+
+UserDetails [userId=106, email=six.com, name=Six, conatct=1234567890, age=24, city=BANG, gender=MALE]
+UserDetails [userId=105, email=fivae@gmail.com, name=Five, conatct=555555, age=25, city=HYD, gender=MALE]
+UserDetails [userId=104, email=four@gmail.com, name=Four, conatct=444444, age=25, city=HYD, gender=MALE]
+UserDetails [userId=102, email=two@gmail.com, name=Two, conatct=22222222, age=25, city=BANG, gender=FEMALE]
+
+
+userDetailsRepository.findAll(Sort.by(Direction.DESC, "userId"))
+
+
+select * from User_Details order by user_id desc
+
+	// NOTE :  Sort class by method take entity Properties not column names.
+
+
+
+Assignment:   Sorting with Custom Find By Methods 
+
+
+
+Paginataion:
+==============
+
+			Pagination is technique used for dividing large data into small set of records
+
+		When We will use Pagination : 
+		
+
+Hibernate: select ud1_0.user_id,ud1_0.age,ud1_0.city,ud1_0.contact,ud1_0.email,ud1_0.gender,ud1_0.name from user_details ud1_0 offset ? rows fetch first ? rows only
+
+
+Hibernate: select count(ud1_0.user_id) from user_details ud1_0
+
+
+UserDetails [userId=101, email=four@gmail.com, name=Five, conatct=444444, age=25, city=HYD, gender=FEMALE]
+UserDetails [userId=103, email=fivae@gmail.com, name=Five, conatct=555555, age=25, city=HYD, gender=MALE]
+UserDetails [userId=107, email=six.com, name=Six, conatct=1234567890, age=24, city=BANG, gender=MALE]
+
+
+//NOTE : Page Index starts from 0 
+
+
+
+
+Sort -> From the Sort Result -> Paginataion
+
+
+
+
+
+Auto Genearted Values for Identifier column: 
+===========================================
+
+
+
+->  Oracle : Identity Column
+      			Sequences 
+
+      MySql -> Auto Increment 
+
+
+
+
+  
+  Order
+      ordr_id pK : ID : 
+      amount
+      noOFItems
+      etcc..  
+
+
+
+Ques :  Diff B/W Stored Proc Vs Trigger?
+Joins 
+
+JPA is managiing Realtion ships 
+
+
+
+By Using an annotation @GeneratedValue , we are going to genearte value for ID column. 
+
+@GeneratedValue: 
+===============
+
+
+Hibernate: create sequence order_details_seq start with 1 increment by 50
+
+Hibernate: create table order_details (amount float(53) not null, no_of_products number(10,0) not null, order_id number(10,0) not null, email varchar2(255 char), primary key (order_id))
+
+
+
+Hibernate: select order_details_seq.nextval from dual
+Hibernate: insert into order_details (amount,email,no_of_products,order_id) values (?,?,?,?)
+
+
+
+@GeneratedValue: :
+
+Stratagies for Creating Auto Genearted Values with @GeneratedValue: 
+====================================================================
+
+1. AUTO :    Default Strategy for @GeneratedValue annoataion. 
+
+        JPA : It's Upto Your Decision to JPA FW how to genearate Values. 
+        based on DataBase, JPA will chooses one of the below Staratagies. 
+
+        		
+					SEQUENCE :  Oracle 
+
+
+
+
+2. IDENTITY : 
+
+
+    column level Identity In Oracle 
+
+    MySql : Auto Increment 
+
+
+
+    	Hibernate: create table order_details (amount float(53) not null, no_of_products number(10,0) not null, order_id number(10,0) generated as identity, email varchar2(255 char), primary key (order_id))
+
+    	Hibernate: insert into order_details (amount,email,no_of_products,order_id) values (?,?,?,default)
+
+Assignemnt : 
+	
+create table product_details (amount float(53) not null, no_of_products number(10,0) not null, 
+product_id number(10,0) generated as identity, email varchar2(255 char), primary key (product_id))
+
+
+Define Entity Class for above. 
+
+
+
+
+
+
+3. SEQUENCE
+
+Sequence will be used for creating values
+
+
+Hibernate: create sequence order_details_seq start with 1 increment by 50
+
+Hibernate: create table order_details (amount float(53) not null, no_of_products number(10,0) not null, order_id number(10,0) not null, email varchar2(255 char), primary key (order_id))
+
+
+
+Hibernate: select order_details_seq.nextval from dual
+Hibernate: insert into order_details (amount,email,no_of_products,order_id) values (?,?,?,?)
+
+
+
+
+
+4. TABLE
+
+
+
+a table will be used for generating values 
+
+
+ create table hibernate_sequences (next_val number(19,0), sequence_name varchar2(255 char) not null, primary key (sequence_name))
+
+Hibernate: insert into hibernate_sequences(sequence_name, next_val) values ('default',0)
+
+Hibernate: create table order_details (amount float(53) not null, no_of_products number(10,0) not null, order_id number(10,0) not null, email varchar2(255 char), primary key (order_id))
+
+
+Hibernate: select tbl.next_val from hibernate_sequences tbl where tbl.sequence_name=? for update
+Hibernate: update hibernate_sequences set next_val=?  where next_val=? and sequence_name=?
+Hibernate: insert into order_details (amount,email,no_of_products,order_id) values (?,?,?,?)
+
+
+
+create sequence my_test_id_seq increment by 1;
+ 
+create table
+   my_test
+(
+  id        number default my_test_id_seq.nextval,
+  name      varchar(10)
+);
+
+
+
+
+TASK : 
+	File : 
+		abc | sdhshd | 233v| sdfdf|  23-4-2024132323 | 
+
+	autoRefill_log (1 UUID  Auto genarted , 4 timestamp. nUmber , vara c)
+
+
+Entity Class : 
+
+
+
+
+
+5. UUID :   Universally Unique Indtifier 
+
+acde070d-8c4c-4f0d-9d8a-162843c10333
+
+
+Hibernate: create table order_details (amount float(53) not null, no_of_products number(10,0) not null, email varchar2(255 char), order_id varchar2(255 char) not null, primary key (order_id))
+
+Hibernate: insert into order_details (amount,email,no_of_products,order_id) values (?,?,?,?)
+
+
+7f387fda-1dc5-49ec-a947-5075ff91ab6b
+
+
+
+Hibernate: drop table order_details cascade constraints
+Hibernate: create table order_details (amount float(53) not null, no_of_products number(10,0) not null, order_id raw(16) not null, email varchar2(255 char), primary key (order_id))
+
+
+
+Mappings: JPA Relationships: 
+============================
+
+
+Relationships : B/w Tables 
+How Many types oF realtion ships : 
+
+4 Types : 
+
+
+			1. One - One     1:1   : @OneToOne
+			2. One - many 	 1:N
+			3. Many - One    N:1
+			4. Many-Many     N:N
+
+1. One - One     1:1 :
+----------------------
+
+
+Defined Between Tables like, When Parent Table having one record the assciated child table should allow only one record for that parent record. 
+
+
+
+@OneToOne
+
+
+->  One To One 
+-> Emp having realtion ship with address as 1-1
+
+
+Hibernate: create table emp_address (aid number(10,0) not null, city varchar2(255 char), country varchar2(255 char), pincode number(10,0) not null, state varchar2(255 char), primary key (aid))
+
+Hibernate: create table emp_dtl (emp_id number(10,0) not null, email varchar2(255 char), gender varchar2(255 char), name varchar2(255 char), address_aid number(10,0), primary key (emp_id))
+
+Hibernate: alter table emp_dtl drop constraint UK_q52sy0pgnop9cs0yu69d4iptg
+
+Hibernate: alter table emp_dtl add constraint UK_q52sy0pgnop9cs0yu69d4iptg unique (address_aid)
+
+Hibernate: alter table emp_dtl add constraint FKfrer77luu5b1l6d5jg2kobs8e foreign key (address_aid) references emp_address
+
+emp_dtl : foreign key (address_aid)  ------>   emp_address : aid
+
+
+
+
+Joining Columns : 
+
+====================
+
+This column is going used for maintaing  relationship between tables. 
+
+This column is acting as FK from parent associsted to Child table PK column. 
+
+
+
+Hibernate: select e1_0.emp_id,a1_0.aid,a1_0.city,a1_0.country,a1_0.pincode,a1_0.state,e1_0.email,e1_0.gender,e1_0.name from emp_dtl e1_0 left join emp_address a1_0 on a1_0.aid=e1_0.address_aid where e1_0.emp_id=?
+
+
+Hibernate: select a1_0.aid,a1_0.city,a1_0.country,a1_0.pincode,a1_0.state from emp_address a1_0 where a1_0.aid=?
+
+
+Enabling Cascading wih Relationships: 
+
+=================================
+
+
+Pesrsist :  Save 
+
+
+	@OneToOne(cascade = CascadeType.ALL)
+
+	Insert : Emp :  Add : Inserted 
+	DELETE : eMP Id : 1   : Address : Records will be ddeleted for epm Id 1 realted. 
+
+
+Hibernate: create table emp_address (aid number(10,0) not null, pincode number(10,0) not null, city varchar2(255 char), country varchar2(255 char), state varchar2(255 char), primary key (aid))
+
+
+Hibernate: create table emp_dtl (address_aid number(10,0) unique, emp_id number(10,0) not null, email varchar2(255 char), gender varchar2(255 char), name varchar2(255 char), primary key (emp_id))
+
+
+Hibernate: alter table emp_dtl add constraint FKfrer77luu5b1l6d5jg2kobs8e foreign key (address_aid) references emp_address
+
+
+
+Hibernate: select e1_0.emp_id,a1_0.aid,a1_0.city,a1_0.country,a1_0.pincode,a1_0.state,e1_0.email,e1_0.gender,e1_0.name from emp_dtl e1_0 left join emp_address a1_0 on a1_0.aid=e1_0.address_aid where e1_0.emp_id=?
+
+
+
+Hibernate: select a1_0.aid,a1_0.city,a1_0.country,a1_0.pincode,a1_0.state from emp_address a1_0 where a1_0.aid=?
+
+
+NO Data On Both Table : 
+
+Verifying 
+
+Hibernate: insert into emp_address (city,country,pincode,state,aid) values (?,?,?,?,?)
+
+
+
+Hibernate: insert into emp_dtl (address_aid,email,gender,name,emp_id) values (?,?,?,?,?)
+
+
+
+Hibernate: 
+
+select e1_0.emp_id,a1_0.aid,a1_0.city,a1_0.country,a1_0.pincode,a1_0.state,e1_0.email,e1_0.gender,e1_0.name from emp_dtl e1_0 left join emp_address a1_0 on a1_0.aid=e1_0.emp_add_id where e1_0.emp_id=?
+
+
+
+Employee(empId=2, name=Two, email=Two@gmail.com, gender=FEMALE, address=Address(aid=101, city=BANG, state=null, country=INDIA, pincode=3434343))
+
+
+
+
+
+One-Many : 1:N
+===============
+
+This mapping is defined as when parent is having one record , from associatec chile table level we are going to maintain many records for that one record of parent. 
+
+
+To Achive One-Many , JPA provided an annotation is @OneToMany
+
+
+
+Hibernate: create table emp_address (aid number(10,0) not null, pincode number(10,0) not null, city varchar2(255 char), country varchar2(255 char), state varchar2(255 char), primary key (aid))
+
+
+Hibernate: create table emp_dtl (emp_id number(10,0) not null, email varchar2(255 char), gender varchar2(255 char), name varchar2(255 char), primary key (emp_id))
+
+Hibernate: create table emp_dtl_address (address_aid number(10,0) not null unique, emp_dtl_emp_id number(10,0) not null)
+
+Hibernate: alter table emp_dtl_address add constraint FK7bxx5947p0b3dys1q71ap3pvd foreign key (address_aid) references emp_address
+
+Hibernate: alter table emp_dtl_address add constraint FKngd3h796axg82c0iky7jpk4b6 foreign key (emp_dtl_emp_id) references emp_dtl
+
+
+
+
+
+
+
+
+
+===================
+
+
+
+
+Hibernate: select e1_0.emp_id,e1_0.email,e1_0.gender,e1_0.name,a1_0.emp_dtl_emp_id,a1_1.aid,a1_1.city,a1_1.country,a1_1.pincode,a1_1.state from emp_dtl e1_0 left join emp_dtl_address a1_0 on e1_0.emp_id=a1_0.emp_dtl_emp_id left join emp_address a1_1 on a1_1.aid=a1_0.address_aid where e1_0.emp_id=?
+
+
+Hibernate: select a1_0.aid,a1_0.city,a1_0.country,a1_0.pincode,a1_0.state from emp_address a1_0 where a1_0.aid=?
+Hibernate: select a1_0.aid,a1_0.city,a1_0.country,a1_0.pincode,a1_0.state from emp_address a1_0 where a1_0.aid=?
+Hibernate: select a1_0.aid,a1_0.city,a1_0.country,a1_0.pincode,a1_0.state from emp_address a1_0 where a1_0.aid=?
+
+
+Hibernate: insert into emp_dtl (email,gender,name,emp_id) values (?,?,?,?)
+Hibernate: insert into emp_address (city,country,pincode,state,aid) values (?,?,?,?,?)
+Hibernate: insert into emp_address (city,country,pincode,state,aid) values (?,?,?,?,?)
+Hibernate: insert into emp_address (city,country,pincode,state,aid) values (?,?,?,?,?)
+Hibernate: insert into emp_dtl_address (emp_dtl_emp_id,address_aid) values (?,?)
+Hibernate: insert into emp_dtl_address (emp_dtl_emp_id,address_aid) values (?,?)
+Hibernate: insert into emp_dtl_address (emp_dtl_emp_id,address_aid) values (?,?)
+
+
+
+
+Many to One Mapping   N:1
+==========================
+
+
+Students Vs Course 
+100 : JAVA
+
+Employees Vs Dept :
+
+
+
+@ManyToOne : bY using this annotation, we are mapping table assscoiated to Many to One Realtion Ship. 
+
+
+
+Hibernate: create table dept (dept_id number(10,0) not null, dept_name varchar2(255 char), primary key (dept_id))
+
+
+Hibernate: create table emp_dtl (emp_dept_id number(10,0), emp_id number(10,0) not null, email varchar2(255 char), gender varchar2(255 char), name varchar2(255 char), primary key (emp_id))
+
+
+Hibernate: alter table emp_dtl add constraint FK6c6oohjpod9mxmbbeujnursoy foreign key (emp_dept_id) references dept
+
+
+
+
+Hibernate: select e1_0.emp_id,d1_0.dept_id,d1_0.dept_name,e1_0.email,e1_0.gender,e1_0.name from emp_dtl e1_0 left join dept d1_0 on d1_0.dept_id=e1_0.emp_dept_id where e1_0.emp_id=?
+
+Hibernate: select d1_0.dept_id,d1_0.dept_name from dept d1_0 where d1_0.dept_id=?
+
+Hibernate: insert into dept (dept_name,dept_id) values (?,?)   ->  10, IT 
+
+Hibernate: insert into emp_dtl (emp_dept_id,email,gender,name,emp_id) values (?,?,?,?,?) -> 101, 10.. 
+
+Hibernate: select e1_0.emp_id,d1_0.dept_id,d1_0.dept_name,e1_0.email,e1_0.gender,e1_0.name from emp_dtl e1_0 left join dept d1_0 on d1_0.dept_id=e1_0.emp_dept_id where e1_0.emp_id=?
+
+Hibernate: select d1_0.dept_id,d1_0.dept_name from dept d1_0 where d1_0.dept_id=?
+
+Hibernate: insert into emp_dtl (emp_dept_id,email,gender,name,emp_id) values (?,?,?,?,?) -> 102, 10
+
+Hibernate: select e1_0.emp_id,d1_0.dept_id,d1_0.dept_name,e1_0.email,e1_0.gender,e1_0.name from emp_dtl e1_0 left join dept d1_0 on d1_0.dept_id=e1_0.emp_dept_id where e1_0.emp_id=?
+
+Hibernate: select d1_0.dept_id,d1_0.dept_name from dept d1_0 where d1_0.dept_id=?  11, ENG : No Data 
+
+Hibernate: insert into dept (dept_name,dept_id) values (?,?)  ->  11, ENG
+
+Hibernate: insert into emp_dtl (emp_dept_id,email,gender,name,emp_id) values (?,?,?,?,?) -> 103, 11
+
+
+Many to Many : 
+==================
+
+
+Hibernate: create table emp_dtl (emp_id number(10,0) not null, email varchar2(255 char), gender varchar2(255 char), name varchar2(255 char), primary key (emp_id))
+
+Hibernate: create table emp_dtl_roles (emp_dtl_emp_id number(10,0) not null, roles_id number(10,0) not null)
+
+Hibernate: create table roles (id number(10,0) not null, name varchar2(255 char), primary key (id))
+
+Hibernate: alter table emp_dtl_roles add constraint FKgc52nrihsj2yh7guqnbs9feal foreign key (roles_id) references roles
+
+Hibernate: alter table emp_dtl_roles add constraint FKrk8rr3a1mlqmepj3ykpj040wb foreign key (emp_dtl_emp_id) references emp_dtl
+
+===============
+
+
+Hibernate: select e1_0.emp_id,e1_0.email,e1_0.gender,e1_0.name,r1_0.emp_dtl_emp_id,r1_1.id,r1_1.name from emp_dtl e1_0 left join emp_dtl_roles r1_0 on e1_0.emp_id=r1_0.emp_dtl_emp_id left join roles r1_1 on r1_1.id=r1_0.roles_id where e1_0.emp_id=?
+
+Hibernate: select r1_0.id,r1_0.name from roles r1_0 where r1_0.id=?
+Hibernate: select r1_0.id,r1_0.name from roles r1_0 where r1_0.id=?
+
+Hibernate: insert into emp_dtl (email,gender,name,emp_id) values (?,?,?,?)
+
+Hibernate: insert into roles (name,id) values (?,?)
+Hibernate: insert into roles (name,id) values (?,?)
+
+Hibernate: insert into emp_dtl_roles (emp_dtl_emp_id,roles_id) values (?,?)
+Hibernate: insert into emp_dtl_roles (emp_dtl_emp_id,roles_id) values (?,?)
+
+
+
+Spring Web/MVC Module : 
+======================
+ 
+
+ To Create Web apps , we are using  this module. 
+
+
+ Spring Web Module Implemented by using Servlets API only. 
+
+
+ 
+Spring Web Module , MVC module.
+
+
+MVC? 
+ 
+M   -   Model
+V   - 	View 
+C 	-	Controller
+
+
+MVC is an archtecture to create Web Applications. 
+
+Every Servlet is A Controller. 
+
+
+Spring Web Module designed as per MVC Architecture 
+
+
+Spring Web in our projects, we ahve to make sure following MVC arch.. 
+
+
+REST API :   > 90%   :  Impl REST , Intg REST .... 
+
+
+
+
+===================
+
+
+Spring Web Application: 
+
+=======================
+
+-> Add Spring Starters, Web along with JPA , Driver 
+
+
+
+By Default Tomcat Server integrated in evrry Spring Boot Web application. 
+
+
+Default Port is : 8080
+
+
+
+app 1 : 
+
+app 2 
+
+app 3
+
+To Change Default Port Number, application.properties
+   add a property :  server.port=<PORT Number>
+
+
+ After  Addinf JPA module , we should propertie of DS 
+ 
+
+				spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
+				spring.datasource.username=c##dilip
+				spring.datasource.password=dilip
+
+
+				spring.jpa.hibernate.ddl-auto=none
+				spring.jpa.show-sql=true
+
+
+				  
+Tomcat started on port 8080 (http) with context path ''
+
+
+
+
+
+
+
+
+
+
+
+abc  :    Context PAth / base Path of Application 
+
+/helloworld 
+
+/make/payment
+
+100 Servlets : URI PATH
+
+ 
+  localhost:8080/abc/helloworld
+  localhost:8089/abc/make/payment
+
+
+
+Spring Boot : 
+
+
+Context path/ abc
+
+/helloworld
+/xyz
+/mno
+/user
+/login
+
+localhost:8080/abc/helloworld
+localhost:8080/abc/xyz
+localhost:8080/abc/mno
+
+
+Pre-Defined Property used :  
+
+
+
+ Tomcat started on port 9999 (http) with context path '/abc'
+
+
+
+Project Setup is Complted. 
+
+=================================================
+
+
+
+WelCome To  Spring Boot Web Applcation. 
+
+
+
+1.   COnfigure View Layer : 
+
+
+=============================
+
+
+Configuring where our view files are located on Project Folder Structure 
+
+
+1.  add jar file of Tomcat JSP Functionality
+
+2. View Resolver : 
+
+	Add Below Dependency ibn POM>xml, Integrted Tomcat is not supporting JSP functionlaites. 
+
+		
+		<!-- https://mvnrepository.com/artifact/org.apache.tomcat.embed/tomcat-embed-jasper -->
+			<dependency>
+			    <groupId>org.apache.tomcat.embed</groupId>
+			    <artifactId>tomcat-embed-jasper</artifactId>
+			</dependency>
+
+
+		Configuring View Layer Details with Spring Boot Application 
+
+
+-->     Create a folder in side src/main : webapp 
+---> 	Create another folder inside webapp : WEB-INF
+-->    	Create another folder inside WEB-INF :   views <Any Folder Name >
+
+
+				#JSP file located folder path in side webapp folder
+				spring.mvc.view.prefix=/WEB-INF/views/
+				spring.mvc.view.suffix=.jsp
+
+
+We have to configure , V
+
+
+Controller: 
+===========
+
+Controller is a Java class, but we are annotating with a special annotation called as @Controller. 
+
+
+@Controller annotation is derived from @Component Annotation.
+
+
+->   We have to Controller/Handler/RequestMapping/endpoint Methods 
+
+-->  Group of URI Path Methods : Controller/Handler/RequestMapping/endpoint Methods
+
+
+-> Configuration to make a method as URI Path Methods : Controller/Handler/RequestMapping/endpoint Methods
+
+->  Please mark the method with an annotation called @RequestMapping
+
+
+
+
+
+
+
+
+Servlets : 
+
+
+
+localhost:8080/abc/welcome  :  end point 
+
+localhost:8080/abc/register : end point
+
+Browser  ->  localhost:8080/abc/welcome  ->  welcome.jsp 
+
+@WebServlet(/welocme)
+WelcomeServlet extends httpServlet{
+	
+
+service()
+{
+
+   // jsp file s
+	welome.jsp 
+
+}
+
+} 
+
+/hello
+
+/wel
+
+
+
+
+URL formation :
+
+localhost:9999/flipkart/welcome
+
+
+
+localhost:9999/flipkart/welome ->  
+
+localhost:9999/flipkart/hello ->    Hello To Every One  
+
+
+
+
+
+Practice :   https://www.baeldung.com/spring-boot-jsp
+
+
+
+
+2 Controller :  4 mtohods 
+
+--> 
+Many Controllers : Many Request Mapping URI's 
+
+Internally , How Spring Web Module identifying respective controller method out of many conttrolers and request mapping method. 
+
+
+Spring Web/MVC Internal workflow. 
+
+
+
+
+
+
+
+	@RequestMapping(path = "user/register", method = RequestMethod.POST)
+
+
+	@WebServlet("user/rgister")
+	RegSerVlet extedns HttpServelt{
+
+       doPOST(HttpServeltRequeest, Response){
+
+
+            request.getParametert // 
+            //all data came 
+
+            // Passing this data to JDBC : Database 
+
+       }
+
+
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+1. How many controllers ?  Many 
+2.  In One Controller , How many Request Mapping Methods , we can define? Many 
+
+3.  Can we maintian, same HTTP method and PATh values same for two different Controller Methods?
+
+															   One{
+															   		/hello  GET
+															   		req1(){
+
+															   		}
+	GET														   }
+  localhost:8080/flipkart/hello
+
+															 Two{
+
+															 	/hello POST
+															 	req2(){
+															   		
+															   		}
+
+															 }
+
+
+localhost:8080/flipakrt/user/rgister  POST ->  
+
+
+Which Is Controller ? From that controller which method is responsible to perfrom an action? 
+
+Spring Web Module Internal Work Flow.
+----------------------------------------
+
+
+Spring Web Module is impleneted by using a concept called Front Controller Design pattern 
+
+
+Front Controller ?
+
+Controller? 
+
+
+Spring Web , Defined a Servelt called DispatcherServlet. 
+
+by using DispatcherServlet, and by following Front Controller Deign Pattern, Web Module is defined. 
+
+
+
+Spring Web Module following a concpet called as RequestHandlerMappings 
+
+Request+Handle+Mapping 
+
+Cleint -> Front Controller : DS   -> 
+
+
+when we are deploying , Spring Web Application , Internally Spring will scan all controller classes. 
+
+
+From Every Controller class, Scanning Request Mappping Methods. 
+
+     Reading path and method values From @Requestmapping Annotation 
+
+
+
+Service Layer/Class: 
+=====================
+
+	Service Class is simply a Java class. 
+
+
+	Spring FW , Provided another annotation called @Service 
+
+
+take two value and add thne 
+
+
+DevTools : 
+
+-----------
+
+
+Relaod/Re-Start apps in web module. 
+
+
+======================================================
+
+
+
+
+
+
+
+
+
+
+
+Web Services : 
+============
+
+Web Services are used to make integration of web applications. 
+
+
+
+2 Types of Web Services : 
+=========================
+
+
+1. SOAP Web Services: 
+
+     Simple Object Access Protocol: 
+
+
+
+     XML Protocol 
+
+
+
+
+2. RESTful Web Services 
+
+
+
+   Is a diiferent Protocol ?  Working with HTPP protocol
+
+
+   REST  : Representational State Transfer. 
+
+  
+
+
+REST API/Services : 
+=================
+
+
+To enable communication/integrate web applications, We have a concept called as Web Services. 
+
+
+
+
+
+Project Setup : 
+---------------
+
+1.  
+
+Select Dependencies of Web Application 
+
+Web : REST API Devlopement 
+JPA : for DB Operations
+
+--> Add Db Props to application.properties file
+
+2.   Add a Controller class
+
+
+
+3.  Req :  Send Hello TO Client. 
+
+
+
+
+
+REST Service/ REST endpoint 
+
+REST Services / REST API
+
+localhost:9999/rest-api/hello
+localhost:9999/rest-api/order/info
+
+
+
+Add naother Annotation called @ResponseBody at method level. 
+
+
+@ResponseBody :  
+
+This annotation , will make the return value converted as a response value and sended to the Client.  
+
+
+
+Annotation that indicates a method return value should be bound to the web response body. 
+
+
+-> Can we retun any value as Response in REST API?  Yes 
+->  To make sure a controller method as a REST Service, what we ahvt o do? @ReponseBody
+
+
+
+
+@RestController : 
+===================
+
+This annotaion is used for implementing REST Services in Spring Web. 
+
+@RestController derived from @Conttoller. 
+
+as part of this annotaion they are binded.. @ResponseBody as well. 
+
+
+@RestController = @Controller + @ResponseBody
+
+
+ Only One class :  couple Rest + view 
+
+ RestController:  
+
+
+
+REST API Testing Tools : 
+========================
+
+For verifying existing REST services functionlity, we are taking help of REST API Testing Tools. 
+
+
+
+
+POSTMAN : 
+--------
+
+Insomnia: 
+----
+
+SOAP UI  :  SOAP + REST 
+
+
+
+POSTMAN : 
+---------
+
+API Testing Tool 
+
+S/w :  Download : 
+
+
+Sending Request From PostMan : 
+============================
+
+1.  Start/Deploy Your web application. 
+
+2. Testing of impl. REST API. 
+ 1. POSTman 
+ 2. 
+
+
+
+
+@RequestMapping(value="/user/create" , method = RequestMethod.POST)
+
+localhost:9999/rest-api/user/create  POST 
+
+
+
+
+
+@RequestMapping(path="/hello")
+public String registerUSer() {
+		
+		//Service -> Repository
+		return "Registration Success";
+	}
+
+
+
+ what is expected result GET  localhost:9999/rest-api/hello?  
+
+Runtime 
+Method Not alloed 
+Registration Success
+
+
+
+
+
+
+
+localhost:9999/rest-api/order/info
+
+localhost:9999/rest-api/update/order  PUT
+
+
+===============
+
+
+Simplified / Shorthand Annotations of RequestMapping Annotation:
+===============================================================
+
+
+
+ @PostMapping:
+
+
+Annotation for mapping HTTP POST requests onto specific handler methods. 
+Specifically, @PostMapping is a composed annotation that acts as a shortcut for @RequestMapping(method = RequestMethod.POST). 
+
+NOTE: This annotation cannot be used in conjunction withother @RequestMapping annotations that are declared on the same method.If multiple @RequestMapping annotations are detected on the same method,a warning will be logged, and only the first mapping will be used. This appliesto @RequestMapping as well as composed @RequestMapping annotationssuch as @GetMapping, @PutMapping, etc.
+
+
+
+REST API Testing Tool
+How to Allow/Restrict HTTP method in REST Service impl. 
+
+
+
+
+JSON : 
+-------
+
+
+Java Script Object Notation
+
+JSON is Data Fromat like XML only. 
+
+
+by Using JSON, we can Represent Data in in aplain text fromat. 
+
+
+
+XML : 
+
+					<user>
+						<name>Dilip</name>
+						<email>dilip@gmail.com</email>
+						<password>dilip1111</password>
+						<contact>2123232</contact>
+					</user>
+
+								user.xml
+
+JOSN :  
+
+XML    Vs JSON ?
+
+
+
+->  As Part oF REST API impl, we can use either XML or JSON or Both also to exchange Data in between applications. 
+
+->   Request & Response 
+
+
+
+
+JSON : 
+------
+					<user>
+						<name>Dilip</name>
+						<email>dilip@gmail.com</email>
+						<password>dilip1111</password>
+						<contact>2123232</contact>
+					</user>
+
+					     		XML 
+
+->  JOSN Data Fromat Contains Concepts of JSON Object, JSON Arrays, JSON Properties. 
+
+
+
+->  JSON Object is defined with 
+{
+	
+
+}
+-> JSON Arrays are represented with 
+[
+
+]
+
+-> JOSN Property is defined :      key:Value 
+
+
+<name>Dilip</name> : Diilp : Value ,   name : tag
+
+JSON :   name:Dilip
+
+->  key should be always inside ""
+-> Value : 
+	If value is String type, should be defined inside ""
+    If Value is Numeric , no need of ""
+    If Value is boolean , no need of ""
+-> Every Key-value pair, should be separated by comma	, 
+
+	<user>
+			<name>Dilip</name>
+			<email>dilip@gmail.com</email>
+			<password>dilip1111</password>
+			<contact>2123232</contact>
+	</user>
+
+	<user>
+			<name>Naresh</name>
+			<email>naresh@gmail.com</email>
+			<password>diliwerrerrep1111</password>
+			<contact>3333</contact>
+	</user>
+
+
+	XML 
+
+
+		<user>
+			<name>Dilip</name>
+			<email>dilip@gmail.com</email>
+			<password>dilip1111</password>
+			<contact>2123232</contact>
+			<marks>
+			    <sub1>11</sub1>
+			    <sub2>22</sub2>
+			    <sub3>33</sub3>
+			    <sub4>44</sub4>
+			</marks>
+		</user>
+
+JSON 
+        
+        {
+
+        	"name" : "Dilip",
+        	"email": "dilip@gmail.com",
+        	"password" : "dilip1111",
+        	" contact" : 2123232,
+        	"marks" : {
+        		"sub1" : 11,
+        		"sub2" :22,
+        		"sub3" : 33,
+        		"sub4" : 44
+        	}
+        }
+
+
+JSON :
+============
+
+JSON Object:
+=============
+
+
+		{
+
+        	"name" : "Dilip",
+        	"email": "dilip@gmail.com",
+        	"password" : "dilip1111",
+        	" contact" : 2123232
+        	
+        }
+
+
+Array Of JSON Objects: 
+======================
+ [ {
+
+        	"name" : "Dilip",
+        	"email": "dilip@gmail.com",
+        	"password" : "dilip1111",
+        	" contact" : 2123232
+        	
+        },
+        {
+
+        	"name" : "Dilip",
+        	"email": "dilip@gmail.com",
+        	"password" : "dilip1111",
+        	" contact" : 2123232
+        	
+        }
+       ,
+       {
+
+        	"name" : "Dilip",
+        	"email": "dilip@gmail.com",
+        	"password" : "dilip1111",
+        	" contact" : 2123232
+        	
+        }
+
+        ]
+
+ Nested JSOn Objects :
+ ==========================
+
+  {
+
+        	"name" : "Dilip",
+        	"email": "dilip@gmail.com",
+        	"password" : null,
+        	" contact" : 2123232,
+        	"address" : {
+        		"sub1" : 11,
+        		"sub2" :22,
+        		"sub3" : 33,
+        		"sub4" : 44
+        	}
+        }
+
+JSON Arrays : 
+=================
+
+
+
+
+
+
+
+
+
+
+
+Java :
+
+
+Studemt{
+	
+   int id;
+   String name; 
+
+}
+
+Student s1 = new Student();
+Student s2 = new Student();
+
+
+Student[]  students = new Students[10];
+
+students = {s1, s2};
+
+
+HTTPMessageConverters:
+=======================
+
+-> HTTPMessageConverters, will make an activity of converting the incoming Request data/payload to JAVA Objects based on Content-Type header.
+
+-> HTTPMessageConverters, will make an activity of converting the Outgoing Response data/payload to Respective Data format based on Accept Header value. 
+
+
+payload : 
+========
+
+
+Request?response content will be called a payloads. 
+
+
+
+1. A REST Service can support more than one data formats as Requeet and Response. 
+
+			JSON/XMl -> Request  :  Client -> Server  : Add :  Content-type:application/json
+			Response -> JSON/XML : Accept : applcation/xml : XML as response
+
+			JSON -> Request  :  Client -> Server  : Add :  Content-type:application/json
+			Response -> XML : Accept : applcation/xml : XML as response  
+
+				XMl -> Request  :  Client -> Server  : Add :  Content-type:application/json
+			Response -> JSON : Accept : applcation/xml : XML as response 
+
+			XMl -> Request  :  Client -> Server  : Add :  Content-type:application/json
+			Response -> XML : Accept : applcation/xml : XML as response 
+
+				JSON -> Request  :  Client -> Server  : Add :  Content-type:application/json
+			Response -> JSON: Accept : applcation/xml : XML as response 
+
+
+
+Create User REST Service : 
+============================
+
+
+
+-> Create a Web project 
+->  Create Controller Class. 
+
+
+
+-> 4 Properties 
+
+
+    name
+    email
+    password
+    contact
+
+ -> JSON
+
+ -> Request :  JSON : -> Controller : JAVA 
+
+ Step 1: 
+
+ 	JSON Payload/Body
+
+
+    name
+    email
+    password
+    contact
+
+    		JSON Payload : Request 
+
+    		{
+    			"name" : "Dilip",
+    			"email" : "dilip@gmail.com",
+    			"password" : "dilip1111"
+    			"contact" : 8283283823
+    		}
+
+
+Step 2:   Define JAVA POJO class based on JSON payload. 
+
+
+UserDetails{
+	
+		
+	    name
+    email
+    password
+    contact
+
+}
+
+
+
+consumes :   JSON : Accepting only JSON as Request Body. 
+produces :  XML  : 
+
+
+consumes :   JSON , XML : Accepting only JSON as Request Body. 
+produces :  XML , JSON : 
+
+
+
+XML 
+
+
+consumes or produces or not?
+
+consumes : JSON, XML 
+produces : 
+		
+
+
+
+->   Define Controller Method with URI Path
+
+-> To convert JSON payload of Request Body coming from Cleint to Our Server Application, 
+we ahve to use an annotation @RequestBody  at method parameter level in controller method associated to JAva Class , which Object we are expexting. 
+
+
+
+	@PostMapping(path = "/user/create",
+			consumes = MediaType.APPLICATION_JSON_VALUE, produces = MediaType.APPLICATION_JSON_VALUE)
+	public String userRegistration(@RequestBody UserDetailsRequestDto userDetails) {
+		
+		System.out.println("Received Request data : "+ userDetails);
+
+		// TODO : send Data To Service layer 
+
+		return "User Registration Success. Noe Please Login.";
+	}
+
+
+
+===> Testing REST Service : 
+
+	URL :  localhost:9999/flipkart/user/create
+
+	HTTP Method : POST 
+
+	Body : Yes 
+
+	JSON Payload : 
+			{
+    			"name" : "Dilip",
+    			"email" : "dilip@gmail.com",
+    			"password" : "dilip1111",
+    			"contact" : 8283283823
+    		}
+
+
+    Send the Request : 
+
+
+Postman : 
+
+	URL and Select method 
+	->  Body : JSON 
+			body -> raw -> JSON
+
+
+
+  DTO:   Data Transfer Object 
+
+  DTO is a POJO class. 
+
+  Entity should be used only for DB operations level
+
+
+NesTed JSON Objects: 
+===================
+
+{
+    "name": "Dilip",
+    "email": "dilip@gmail.com",
+    "password": "Dilip1111",
+    "contact": 2123232,
+    "address": {
+        "city": "HYD",
+        "area": "AMPT",
+        "state": "TG",
+        "pincode": 500072
+          
+    },
+    education{
+
+
+    "subjects" : ["English","Hindi","Maths"]
+         
+
+    }
+    employment{
+    	Company Name 
+    	Start Year
+    	End year 
+    	Designation
+
+
+    }
+}
+
+Java Classes :
+
+
+
+
+REST Service ;
+======
+
+College{
+
+      name;
+      branchCode
+	
+      Student{
+      		name
+      		id
+      		mobile
+
+               Address{
+                      city
+                      area 
+
+               }
+      }
+
+}
+
+
+
+
+Req ->  Analyze -> Design -> Request Fromat -> JSON -> JSON mapping Pojos.
+
+
+JSON Arrays:  Nested JSON Objects
+--------------------------------
+
+JSON -> JAVA Classes 
+
+
+
+
+
+10, 10+2 , Graduation, POSt Graduation 
+
+
+  Naukri:  Student Information
+
+  Details 
+    Personal Info
+    address
+    -> education 
+
+	    			standard : 
+	    			Name Of Org : 
+	    			passed Year: 
+	    			avgPercentage : 
+
+
+				    			standard : 
+				    			Name Of Org : 
+				    			passed Year: 
+				    			avgPercentage : 
+
+						    			standard : 
+						    			Name Of Org : 
+						    			passed Year: 
+						    			avgPercentage : 
+
+  Arrays : Same type OF Values 
+
+
+
+
+JSON : 
+
+
+{
+    "name": "Dilip",
+    "email": "dilip@gmail.com",
+    "password": "Dilip1111",
+    "contact": 2123232,
+
+    "address": {
+        "city": "HYD",
+        "area": "AMPT",
+        "state": "TG",
+        "pincode": 500072
+    },
+
+    "educationData" : [  
+
+    		{
+    			"standard": "10",
+	    		"nameOfOrg" : "ABC",
+	    		"passedYear": 2003,
+	    		"avgPercentage" : 76.77 
+
+    		},
+    		{	
+				"standard": "intermediate",
+	    		"nameOfOrg" : "XYZ",
+	    		"passedYear": 2005,
+	    		"avgPercentage" : 80.77 
+    		},
+    		{
+    			"standard": "Graduation",
+	    		"nameOfOrg" : "PQR",
+	    		"passedYear": 2009,
+	    		"avgPercentage" : 66.66
+
+	   		}
+   ]
+}
+
+
+
+
+JAVA : 
+
+
+
+
+
+
+
+
+ 
+   "subjects" : ["English","Hindi","Maths"]  :   List<String>  subjects;
+
+
+
+===============================================================================
+
+
+https://restful-api.dev/
+
+
+	
+@RequestBody	List<PhoneDetails> detail;
+
+PhoneDetails
+    id
+    name
+    PhoneData data;
+
+PhoneData
+   color
+   capacity
+
+==========================
+
+[
+   {
+      "id": "1",
+      "name": "Google Pixel 6 Pro",
+      "data": {
+         "color": "Cloudy White",
+         "capacity": "128 GB"
+      }
+   },
+   {
+      "id": "2",
+      "name": "Apple iPhone 12 Mini, 256GB, Blue",
+      "data": null
+   },
+   {
+      "id": "3",
+      "name": "Apple iPhone 12 Pro Max",
+      "data": {
+         "color": "Cloudy White",
+         "capacity GB": 512
+      }
+   },
+   {
+      "id": "4",
+      "name": "Apple iPhone 11, 64GB",
+      "data": {
+         "price": 389.99,
+         "color": "Purple"
+      }
+   },
+   {
+      "id": "5",
+      "name": "Samsung Galaxy Z Fold2",
+      "data": {
+         "price": 689.99,
+         "color": "Brown"
+      }
+   },
+   {
+      "id": "6",
+      "name": "Apple AirPods",
+      "data": {
+         "generation": "3rd",
+         "price": 120
+      }
+   },
+   {
+      "id": "7",
+      "name": "Apple MacBook Pro 16",
+      "data": {
+         "year": 2019,
+         "price": 1849.99,
+         "CPU model": "Intel Core i9",
+         "Hard disk size": "1 TB"
+      }
+   },
+   {
+      "id": "8",
+      "name": "Apple Watch Series 8",
+      "data": {
+         "Strap Colour": "Elderberry",
+         "Case Size": "41mm"
+      }
+   },
+   {
+      "id": "9",
+      "name": "Beats Studio3 Wireless",
+      "data": {
+         "Color": "Red",
+         "Description": "High-performance wireless noise cancelling headphones"
+      }
+   },
+   {
+      "id": "10",
+      "name": "Apple iPad Mini 5th Gen",
+      "data": {
+         "Capacity": "64 GB",
+         "Screen size": 7.9
+      }
+   },
+   {
+      "id": "11",
+      "name": "Apple iPad Mini 5th Gen",
+      "data": {
+         "Capacity": "254 GB",
+         "Screen size": 7.9
+      }
+   },
+   {
+      "id": "12",
+      "name": "Apple iPad Air",
+      "data": {
+         "Generation": "4th",
+         "Price": "419.99",
+         "Capacity": "64 GB"
+      }
+   },
+   {
+      "id": "13",
+      "name": "Apple iPad Air",
+      "data": {
+         "Generation": "4th",
+         "Price": "519.99",
+         "Capacity": "256 GB"
+      }
+   }
+]
+
+
+==============================================================
+
+Swagger API Documentation : 
+---------------------------
+
+
+
+Swagger API, is a documentation Tool. 
+
+Swagger helps us, dynamically creating REST services documentation. 
+
+
+Swagger is going to scan all Controller classes, and finds all REST services, it will strt making a dcoument by reading Annotations inforamtion. 
+
+
+Add Dependecy of Swagger API to our project.
+
+
+
+    <dependency>
+      <groupId>org.springdoc</groupId>
+      <artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+      <version>2.1.0</version>
+    </dependency>
+
+many jar file : 
+
+
+-->  
+
+
+localhost:<port-number>/<context-path>/swagger-ui.html
+
+
+localhost:9999/flipkart/swagger-ui.html
+
+http://localhost:9999/flipkart/swagger-ui/index.html
+
+
+
+React _ Spring Boot REST Integration :  
+
+
+https://www.youtube.com/@dilipitacademy
+https://github.com/dilipsingh1306/SpringBoot-React-Integration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+From SB ->  Other App REST Services: 
+
+
+
+
+
+
+
+
+
+REST API Impl. GudieLines: 
+==========================
+
+
+
+Resource Identifiers should be defined as path variables. 
+
+
+PATH Variables: 
+---------------
+
+
+File Path: 
+
+URI Path:  
+
+Path variables are defined as part of URI Path Strings. 
+
+Path varibales are defined inside {} as part of URI Path Strings. 
+
+Path Variables are called as template Variables of URI path String. 
+
+Path Variables are called as Place Holders of URI Path Stirng. 
+
+We can define many Path Variables as part of URI Path Stirng. 
+
+
+Path variables can dfined in any place of URI String. 
+
+URI PATH :  
+
+Place Holder :  Holding the Place : 
+
+
+
+/users/{ResourceIdVaribaleName}
+
+
+
+https://linkedin.com/in/{userID}
+
+
+https://linkedin.com/in/dilipsingh1306
+https://linkedin.com/in/naresh12345
+https://linkedin.com/in/pawan143
+https://linkedin.com/in/ankita-java-pro
+
+
+
+https://www.instagram.com/{userid}
+https://www.instagram.com/dilipsingh_1306
+
+
+
+
+
+Req: 
+
+
+Get Users Infromation based on City and Gender:
+
+Values :  City   , Gender 
+
+
+RequestBody:
+
+	{
+     "city":"HYD",
+     "gender":"MALE"
+
+	}
+
+POJO
+
+
+REST API Developers 
+
+PATH VAriables 
+
+
+
+
+
+Assignment : Update : 
+
+
+Update User  Infromation based on User id 
+
+
+dilip@gmail.com : path variable 
+	Req : Change Password : 
+
+
+RequestBody: 
+	JSOn -> POJO
+	current Password : dilip123
+	new password : dilip999
+
+
+
+Analysis : 
+
+============
+
+
+https://www.flipkart.com/{category}
+
+
+https://www.flipkart.com/mobile-phones-store
+
+https://www.flipkart.com/grocery-supermart-store
+
+localhost:9999:flipkart/users
+
+
+
+
+
+
+Query/Request Parameters:
+=========================
+
+
+
+
+
+Quetsioning 
+
+
+Parameters : 
+
+
+
+ Req : 
+ Passing two String value, and getting single String value with Space concatnation
+
+
+String getFullName(String firstName, String  lastName){
+
+
+//lOgic : 200 lines 
+		
+
+		rerturn firstName.concat(" "+lastName);
+	
+}
+
+
+String fullName = getFullName(null, "Dilip"); -> NullpointerEXception
+String fullName = getFullName("Java", "Dilip"); -> Java Dilip
+String fullName = getFullName("", ""); -> 
+String fullName = getFullName("Java", "Dilip"); -> Java Dilip
+
+
+
+
+
+Query String :
+------------
+
+Query Parameters: 
+================
+
+
+-> Query PArameters are defined as part of Query String. 
+
+-> Query String is combination of Query PArameters
+
+-> Query String is defined as part of URI path.  
+
+-> Query String is added to end of URI path 
+
+-> Query String is always started with   query symbol   ? 
+
+->  As part of Query String , we will define many Query parameters 
+
+->  Every query Param is separated by &  
+
+->  Query Parameter is defined as key=value
+
+
+
+Query String: 
+
+	Syntax	
+		localhost:9999/flipkart/users?key1=value1&key2=value2.....
+ 		localhost:9999/flipkart/users/info?city=hyd&gender=male
+
+
+ 		localhost:9999/flipkart/users/{city}/{gender}
+ 		localhost:9999/flipkart/users/hyd/male
+
+
+Resource Identifiers Infromation:
+
+		Req :  Get Users Infromation based in city and gender
+
+		Query Params:  
+
+
+
+@RequestParam: THis annotation is used to binding/mapping values of Query PArameters
+
+to controller method parameters. 
+
+
+
+
+TODO :  Req :  Get Users Infromation based in city 
+
+Get Users Infromation based on city , gender and collge name.
+
+
+localhost:9999/flipkart/users/info?city=HYD&gender=FEMALE
+
+localhost:9999/flipkart/users/info?city=HYD&gender=FEMALE
+
+
+ 		localhost:9999/flipkart/users/{city}/{gender}
+ 		localhost:9999/flipkart/users/hyd/male
+
+
+
+
+
+
+
+
+https://www.flipkart.com/
+
+
+
+https://www.flipkart.com/mobile-phones-store
+
+
+https://www.flipkart.com/grocery-supermart-store?marketplace=GROCERY&fm=neo%2Fmerchandising&iid=M_00864b16-c508-4556-ad08-0ad83f0e0460_1_372UD5BXDFYS_MC.CBUR1Q46W5F1&otracker=hp_rich_navigation_1_1.navigationCard.RICH_NAVIGATION_Grocery_CBUR1Q46W5F1&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_1_L0_view-all&cid=CBUR1Q46W5F1
+
+
+
+
+
+
+https://www.flipkart.com/mobile-phones-store?fm=neo%2Fmerchandising&iid=M_0c1c566e-ca1d-4683-a42d-89fe34d1cecc_1_372UD5BXDFYS_MC.ZRQ4DKH28K8J&otracker=hp_rich_navigation_2_1.navigationCard.RICH_NAVIGATION_Mobiles_ZRQ4DKH28K8J&otracker1=hp_rich_navigation_PINNED_neo%2Fmerchandising_NA_NAV_EXPANDABLE_navigationCard_cc_2_L0_view-all&cid=ZRQ4DKH28K8J
+
+
+
+
+
+
+
+
+
+
+
+
+
+https://www.flipkart.com/search?q=mobiles&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+
+
+https://www.flipkart.com/search?q=mobiles&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+&p%5B%5D=facets.brand%255B%255D%3DApple
+
+
+https://www.flipkart.com/search?q=mobiles&otracker=search&otracker1=search&marketplace=FLIPKART&as-show=on&as=off
+&p%5B%5D=facets.brand%255B%255D%3DApple
+
+
+
+
+
+/products/{category}
+
+/products/mbiles
+			brand
+			stiage
+
+
+
+
+Get Users info based on city -> 
+
+
+10 : HYD 
+4 _FEMAL
+6-MAle 
+
+
+Req : Get Users based on city
+     		if gender is presented get Data city and gender  : MALE : 6
+      		if gender is not presented get Data city   :       10
+
+
+
+Categories:
+
+			Mobiles 
+			Appliainces 
+			Laptops
+			Grocery
+			etcc..
+			100 
+
+
+
+Req : 
+
+		Filters 
+
+				price 
+				lowest price 
+				highest price 
+				ratings 
+
+
+flipakrt.com/mobiles?price=..&brand=...
+
+
+
+
+ -> Mobiles 
+
+Lpatops
+
+flipakrt.com?category=<>
+
+
+
+lapatops
+
+
+->  
+
+
+
+
+
+Req : Get Users based on city always. 
+     		if gender is presented get Data city and gender  
+      		if gender is not presented get Data city   
+
+
+      		Qualification : PG
+      		Age 
+      		dob Year
+
+
+users
+   -> age 
+   -> qualifcation
+
+
+By Default Query Parameter/Request Parameter is required data. 
+
+
+
+
+
+Http Status/ Response Status Codes in REST API implmentation: 
+-----------------------------------------------------
+
+
+
+Http Status/ Response Status Codes :   HTTP Protocl Web Applications
+
+
+
+
+All HTTP response status codes are separated into five classes or categories. 
+
+There are five classes defined by the standard:
+
+1xx informational response – the request was received, continuing process
+
+	100 : continue
+	101 : switching Protocols
+	102 
+
+
+
+2xx successful – the request was successfully received, understood, and accepted
+	
+
+	200
+	201
+	202
+	203
+	etc...
+
+
+201 Created. User Account Created
+
+
+User Already Existed Id : EmailId existed, Try with New One : 200 Ok 
+
+
+
+
+
+
+
+
+3xx redirection – further action needs to be taken in order to complete the request
+4xx client error – the request contains bad syntax or cannot be fulfilled
+5xx server error – the server failed to fulfil an apparently valid request
+
+
+
+
+
+Spring Web Provided a class called as ResponseEntity
+
+ResponseEntity : 
+
+	By ResponseEntity, we can bind Response Staus Codes and Actual Response Body. 
+
+	Finally we will return ResponseEntity Object 
+
+
+
+	ResponseEntity Type, should defined with Response Body Type. 
+
+
+	HttpStatusCode Interface :  
+
+	This will conatain all HTTP status Code as Static and Final variables.
+
+
+	HttpStatus Enum : 
+
+		This is all Constant Values of All HTTP Sttaus Codes. 
+
+
+
+
+
+TODO :  If email existed, in Get Operation : 200 Ok : Body User Details 
+
+Email Not existed, 204 No Content  , Empty 
+
+
+
+
+
+
+
+
+
+
+
+/user/""
+
+
+String : emailId : ""/null
+
+if(emailId != null && String.isEmpty(emailId))
+         Service 
+
+         	email existed : 
+         			Send Data 
+         	email Not existed 
+         			Not existed, Try With new mail id 
+else{
+	return Respone : Invalid EmaolId Value, Please check Your rmaild. 
+}
+
+
+
+
+
+
+
+
+200 OK
+
+201 Created
+
+
+
+
+
+Empty Response Body: 
+200 OK  -> Not Created
+201 Created -> Created
+
+
+
+
+
+204 No Content
+
+
+400 Bad Request
+
+401 Unauthorized
+
+403 Forbidden
+
+404 Not Found
+
+405 Method Not Allowed
+
+406 Not Acceptable
+
+408 Request Timeout
+
+415 UnSupportedMediaType
+
+
+
+
+REST API Validation:
+=================
+
+
+Validation Of Request Body :
+
+
+
+name *  :  min 5 max 50 
+
+   "email": "cccc1123@gmail.com",   *
+    "password": "GetSuresh1212122",  *  min 5 max 50 
+    "contact": 765454444,  *   max 50  : 
+   
+optional : 
+
+    "city" :"BANG",
+    "gender" : "MALE"
+
+
+Bad Request : Name is Missing 
+
+Bad Rqueest : Email InValid Fromat 
+
+
+Bad Request : Name & Email id is Missing 
+
+
+2 chars:  mIn Lenth should be 5  : Name is Missing 
+
+60 chars : Name should be below 50 chars 
+
+
+
+Validation Framework Of Spring : 
+===============================
+
+
+By Default In Spring,  REquestBody is not validated. 
+
+
+Step 1 
+Add this Spring Boot Validation Starter to pom.xml 
+
+
+
+<dependency> 
+    <groupId>org.springframework.boot</groupId> 
+    <artifactId>spring-boot-starter-validation</artifactId> 
+</dependency> 
+
+
+we have to make sure request Body/payload is valided for every request.
+
+
+Step 2 : 
+
+
+
+@Valid : We have to this annotaion to enable Request Body/Payload Validation. 
+
+@Valid should be used along with @RequestBody annotation
+
+
+Step 3 :
+
+Inside Request Bodt, adding validation constraints to each and every individual properties 
+
+
+
+
+[2m2024-04-04T07:39:23.075+05:30[0;39m [33m WARN[0;39m [35m8144[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [2m[0;39m[36m.w.s.m.s.DefaultHandlerExceptionResolver[0;39m [2m:[0;39m Resolved [org.springframework.web.bind.MethodArgumentNotValidException: Validation failed for argument [0] in public org.springframework.http.ResponseEntity<java.lang.String> com.dilip.spring.boot.rest.api.controller.CustomerController.userRegistration(com.dilip.spring.boot.rest.api.dto.CustomerDetailsDto) with 2 errors: [Field error in object 'customerDetailsDto' on field 'name': rejected value [Dh]; codes [Size.customerDetailsDto.name,Size.name,Size.java.lang.String,Size]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customerDetailsDto.name,name]; arguments []; default message [name],50,5]; default message [size must be between 5 and 50]] [Field error in object 'customerDetailsDto' on field 'email': rejected value [Suresh]; codes [Email.customerDetailsDto.email,Email.email,Email.java.lang.String,Email]; arguments [org.springframework.context.support.DefaultMessageSourceResolvable: codes [customerDetailsDto.email,email]; arguments []; default message [email],[Ljakarta.validation.constraints.Pattern$Flag;@5d3e8bac,.*]; default message [Email IS invalid Fromat. ]] ]
+
+
+
+Response {
+	name size must be between 5 and 50
+
+Email IS invalid Fromat.
+}
+
+
+400 Bad Request
+
+
+
+
+
+
+
+Status Code : 400 bad request 
+{
+	name is min 2 and mx 50,
+	email Is Invlaid format
+}
+
+
+
+String name = null;
+
+String name  = " ";
+
+
+
+
+
+
+
+
+
+
+avoid writing ExceptionHandelr methids as much as possible. 
+
+
+
+
+
+
+Exception Handling In Spring Web Applications:
+----------------------------------------------
+
+
+Array : 1,2,3,4
+
+[4] :   5
+
+
+Exceptions : 
+
+when we Defining an Controller endpoints, 
+
+
+
+{
+    "timestamp": "2024-04-04T02:36:22.686+00:00",
+    "status": 500,
+    "error": "Internal Server Error",
+    "trace": "java.lang.ArithmeticException: / by zero\r\n\tat com.dilip.spring.boot.rest.api.controller.LoanController.getEMIValue(LoanController.java:24)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)\r\n\tat java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)\r\n\tat java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)\r\n\tat java.base/java.lang.reflect.Method.invoke(Method.java:568)\r\n\tat org.springframework.web.method.support.InvocableHandlerMethod.doInvoke(InvocableHandlerMethod.java:259)\r\n\tat org.springframework.web.method.support.InvocableHandlerMethod.invokeForRequest(InvocableHandlerMethod.java:192)\r\n\tat org.springframework.web.servlet.mvc.method.annotation.ServletInvocableHandlerMethod.invokeAndHandle(ServletInvocableHandlerMethod.java:118)\r\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.invokeHandlerMethod(RequestMappingHandlerAdapter.java:920)\r\n\tat org.springframework.web.servlet.mvc.method.annotation.RequestMappingHandlerAdapter.handleInternal(RequestMappingHandlerAdapter.java:830)\r\n\tat org.springframework.web.servlet.mvc.method.AbstractHandlerMethodAdapter.handle(AbstractHandlerMethodAdapter.java:87)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doDispatch(DispatcherServlet.java:1089)\r\n\tat org.springframework.web.servlet.DispatcherServlet.doService(DispatcherServlet.java:979)\r\n\tat org.springframework.web.servlet.FrameworkServlet.processRequest(FrameworkServlet.java:1014)\r\n\tat org.springframework.web.servlet.FrameworkServlet.doGet(FrameworkServlet.java:903)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:564)\r\n\tat org.springframework.web.servlet.FrameworkServlet.service(FrameworkServlet.java:885)\r\n\tat jakarta.servlet.http.HttpServlet.service(HttpServlet.java:658)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:205)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.tomcat.websocket.server.WsFilter.doFilter(WsFilter.java:51)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.RequestContextFilter.doFilterInternal(RequestContextFilter.java:100)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.FormContentFilter.doFilterInternal(FormContentFilter.java:93)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.springframework.web.filter.CharacterEncodingFilter.doFilterInternal(CharacterEncodingFilter.java:201)\r\n\tat org.springframework.web.filter.OncePerRequestFilter.doFilter(OncePerRequestFilter.java:116)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.internalDoFilter(ApplicationFilterChain.java:174)\r\n\tat org.apache.catalina.core.ApplicationFilterChain.doFilter(ApplicationFilterChain.java:149)\r\n\tat org.apache.catalina.core.StandardWrapperValve.invoke(StandardWrapperValve.java:167)\r\n\tat org.apache.catalina.core.StandardContextValve.invoke(StandardContextValve.java:90)\r\n\tat org.apache.catalina.authenticator.AuthenticatorBase.invoke(AuthenticatorBase.java:482)\r\n\tat org.apache.catalina.core.StandardHostValve.invoke(StandardHostValve.java:115)\r\n\tat org.apache.catalina.valves.ErrorReportValve.invoke(ErrorReportValve.java:93)\r\n\tat org.apache.catalina.core.StandardEngineValve.invoke(StandardEngineValve.java:74)\r\n\tat org.apache.catalina.connector.CoyoteAdapter.service(CoyoteAdapter.java:344)\r\n\tat org.apache.coyote.http11.Http11Processor.service(Http11Processor.java:391)\r\n\tat org.apache.coyote.AbstractProcessorLight.process(AbstractProcessorLight.java:63)\r\n\tat org.apache.coyote.AbstractProtocol$ConnectionHandler.process(AbstractProtocol.java:896)\r\n\tat org.apache.tomcat.util.net.NioEndpoint$SocketProcessor.doRun(NioEndpoint.java:1744)\r\n\tat org.apache.tomcat.util.net.SocketProcessorBase.run(SocketProcessorBase.java:52)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1191)\r\n\tat org.apache.tomcat.util.threads.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:659)\r\n\tat org.apache.tomcat.util.threads.TaskThread$WrappingRunnable.run(TaskThread.java:63)\r\n\tat java.base/java.lang.Thread.run(Thread.java:833)\r\n",
+    "message": "/ by zero",
+    "path": "/flipkart/get/emi"
+}
+
+
+ArithmeticException :  Please check values , values hsould not be 0 . 
+
+500 Internal Server Erro 
+
+
+result : 1233
+
+
+
+by default Spring Web Module , when an exception occured at runtime level, Spring will send Response with Exception Object details to the client as a Response with Status Code. 
+
+
+Spring Web Module provide a solution, when an exception occured at runtime level, to handle those exceptions and converting those exceptions into a responsble response fromat with meaningfull Status codes. 
+
+
+
+
+Spring FW, provide a concept called ExceptionHandlers
+
+ExceptionHandlers is nothing but a method defined inside a Controller Advice class.
+
+Spring Web , Provided another feature called as ControllerAdvice. 
+
+
+ControllerAdvice : This is an annotation defined at class level. 
+
+Now we are calling that class Controller Advice Class. 
+
+Controller Advice Class contains, ExceptionHandler Methods.
+
+
+ControllerAdvice class is reponsible for handing Exceptions occured at runtime of Spring Web Functionalites. 
+
+When an method is annotated with @ExceptionHandler , called Exception Handler Methods. 
+
+
+
+try{
+
+// Logic   : Index
+
+
+	
+}catch(Null..Exception ){
+	
+
+}catch(exception ex){
+	
+
+
+}
+
+
+
+Assignment : Handle Exception Specific to only REST Servicr level. 
+
+
+
+
+=================================
+
+Http Headers: 
+=============
+
+
+https://www.instagram.com/dilipsingh_1306/
+
+
+
+https://www.instagram.com/dilipsingh_1306/
+
+
+
+
+Pre Defined Headers
+User Defined Headers
+
+
+
+
+Send a vlaue 	as part of Request Headers 
+
+
+
+
+-> Request Headers 
+
+
+			Content-Type:  application/xml  :  -> Sending Request Body in XML Format 
+				Accept : 
+
+
+
+-> Response Headers 
+
+
+Sending Data as part of Response Headers 
+
+
+Content-Type  :  application/xml  
+
+Header Name : Header Value 
+
+key : value  pairs  
+name : value
+
+
+
+Requirement: 
+
+
+Create A Rest Service, where cleint should send always their hostname as part of Header.
+
+Request header : hostname 
+ 
+
+
+REST API With Support of XML : 
+------------------------------
+
+
+
+XML data will be Request Body and Response Body. 
+
+
+
+XML Vs JSON 
+-----------:
+
+
+Req : 
+
+
+Create A REST Service for user registration , 
+
+
+    name,
+    "email
+    password":
+    "contact": 
+    "city" :
+    "gender" : 
+
+-> ONLY XML in REquest 
+
+
+			
+
+->   XML & JSON 
+
+      
+
+
+ Response : 
+
+
+
+ 	-> Get User Information, Based on City
+
+
+
+
+-> Default Data Fromat is JSON 
+
+->   to support JSON, are we added/configired any thing in Spring Werb Module? 
+
+		NO 
+
+->  to support JSON, are we added/configired any thinf in REST API impl/Logic level either Request or Response Body? 
+
+		NO
+
+
+		Spring Web application by deault supporting JSON 
+
+
+
+
+
+
+
+
+@GetMapping(path = "/user/{city}/{gender}")
+	public List<UserDetails> getUsersByCityAndGender(@PathVariable("city") String cityName,
+			@PathVariable String gender) {
+
+		System.out.println("Fetching USer Infromation by Gender :" + gender + " , city : " + cityName);
+
+		return userManagementService.getUsersByCityAndGender(cityName, gender);
+	}
+
+
+
+
+
+
+
+    name
+    email
+    password
+    contact
+    city
+    gender
+
+  XML : 
+
+  		<user>
+  		 	<name>Dilip</name>
+    		<email>diliP@gmail.com</email>
+    		<password>dili111</password>
+    		<contact>7237237273</contact>
+    		<city>HYD</city>
+    		<gender>MALE</gender>
+  		</user>
+
+
+By Default XML Data Foramt Not allowed in Spring Web. 
+
+By Default XML Converters  are not configured internally by spring Web Module. 
+
+	-> Add XML Converter Jar file 
+			JAXB : Java Lang :  
+			jackson 
+
+<!-- https://mvnrepository.com/artifact/com.fasterxml.jackson.dataformat/jackson-dataformat-xml -->
+<dependency>
+    <groupId>com.fasterxml.jackson.dataformat</groupId>
+    <artifactId>jackson-dataformat-xml</artifactId>
+   
+</dependency>
+
+
+
+
+
+To Enable XMl data Fromat : 
+============================
+
+consumes : application/json
+
+
+produces : application/json
+
+
+
+
+
+
+
+
+
+
+
+
+-> Add Dependency of XMl data fromat Conveter jar file. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Assignemnt : 
+
+	Array Of User Details : 
+
+<users>
+
+		<user>
+  		 	<name>Dilip</name>
+    		<email>diliP@gmail.com</email>
+    		<password>dili111</password>
+    		<contact>7237237273</contact>
+    		<city>HYD</city>
+    		<gender>MALE</gender>
+  		</user>
+
+
+
+		<user>
+  		 	<name>Dilip</name>
+    		<email>diliP@gmail.com</email>
+    		<password>dili111</password>
+    		<contact>7237237273</contact>
+    		<city>HYD</city>
+    		<gender>MALE</gender>
+  		</user>
+  		<user>
+  		 	<name>Dilip</name>
+    		<email>diliP@gmail.com</email>
+    		<password>dili111</password>
+    		<contact>7237237273</contact>
+    		<city>HYD</city>
+    		<gender>MALE</gender>
+  		</user>
+  		<user>
+  		 	<name>Dilip</name>
+    		<email>diliP@gmail.com</email>
+    		<password>dili111</password>
+    		<contact>7237237273</contact>
+    		<city>HYD</city>
+    		<gender>MALE</gender>
+  		</user>
+  		<user>
+  		 	<name>Dilip</name>
+    		<email>diliP@gmail.com</email>
+    		<password>dili111</password>
+    		<contact>7237237273</contact>
+    		<city>HYD</city>
+    		<gender>MALE</gender>
+  		</user>
+ </users>
+
+
+
+
+
+Assignments : 
+
+1. Request : JSON  ->  Response XML 
+1. Request : XML  ->  Response JSON 
+1. Request : JSON,XML  ->  Response XML
+1. Request : JSON,XML  ->  Response JSON 
+1. Request : XML  ->  Response JOSN, XML
+
+
+
+Conusming/Integrating REST API services : 
+=========================================
+
+
+
+Created REST Service 
+or 
+We are called Rest Services of another app?
+
+
+Consumer Application  : 
+
+
+		The Application calling API Services from another application
+
+
+Producer Applicatipn : 
+
+		The Application Created API Services called as Producer Application 
+
+
+
+https://restful-api.dev/
+
+
+
+
+To call a REST Service , what inforamtion we need?
+
+
+URL : localhost:9999/flipkart/user/create
+Method :  POST
+Body :  Yes 
+
+  JSOn 
+    
+{
+  "name": "string",
+  "email": "string",
+  "password": "string",
+  "contact": 0,
+  "gender": "string",
+  "city": "string"
+}
+
+
+Spring Boot application : Consumer application: 
+
+
+
+RestTemplate: 
+
+RestTemplate is a class provided by Spring FW
+
+
+RestTemplate is acting as HTTp client. 
+
+
+
+Synchronous client to perform HTTP requests, exposing a simple, templatemethod API over underlying HTTP client libraries such as the JDK HttpURLConnection, Apache HttpComponents, and others. RestTemplateoffers templates for common scenarios by HTTP method, in addition to thegeneralized exchange and execute methods that supportless frequent cases. 
+
+RestTemplate is typically used as a shared component. However, itsc onfiguration does not support concurrent modification, and as such itsconfiguration is typically prepared on startup. If necessary, you can createmultiple, differently configured RestTemplate instances on startup. Suchinstances may use the same underlying ClientHttpRequestFactoryif they need to share HTTP client resources. 
+
+exchange(...)
+
+This method will be used for initiating Request from current application to another application. 
+calalin RETS service of other app
+
+
+
+HttpEntity : HttpEntity is a class provided by Spring Web 
+
+HttpEntity, we are binding , Request Body, headers. 
+
+
+Represents an HTTP request or response entity, consisting of headers and body. 
+Often used in combination with the org.springframework.web.client.RestTemplate,like so: 
+
+ HttpHeaders headers = new HttpHeaders();
+ headers.setContentType(MediaType.TEXT_PLAIN);
+ headers.add("token","eruehoifjsf'ajm'psdgie0[rwug[erwjgprejgejrgjerige'ohgoehrh")
+ HttpEntity<String> entity = new HttpEntity<>("Hello World", headers);
+ URI location = template.postForLocation("https://example.com", entity);
+ 
+or  HttpEntity<String> entity = template.getForEntity("https://example.com", String.class);
+ String body = entity.getBody();
+ MediaType contentType = entity.getHeaders().getContentType();
+ 
+Can also be used in Spring MVC, as a return value from a @Controller method:  @GetMapping("/handle")
+ public HttpEntity<String> handle() {
+   HttpHeaders responseHeaders = new HttpHeaders();
+   responseHeaders.set("MyResponseHeader", "MyValue");
+   return new HttpEntity<>("Hello World", responseHeaders);
+ }
+ 
+
+
+
+
+
+GET
+
+ https://countriesnow.space/api/v0.1/countries/positions
+
+
+
+Req :  nested JSOn Objects 
+
+
+{
+  "name": "string",
+  "email": "string",
+  "password": "string",
+  "contact": 0,
+  "gender": "string",
+  "city": "string",
+  "address": {
+    "city": "string",
+    "area": "string",
+    "state": "string",
+    "pincode": 0
+  }
+}
+
+===========================
+
+
+Class Address
+"address": {
+    "city": "string",
+    "area": "string",
+    "state": "string",
+    "pincode": 0
+  }
+
+
+UserDetails
+
+ "name": "string",
+  "email": "string",
+  "password": "string",
+  "contact": 0,
+  "gender": "string",
+  "city": "string",
+   Address address;
+
+
+=====================================
+
+
+[
+  {
+    "email": "string",
+    "name": "string",
+    "password": "string",
+    "contact": 0,
+    "gender": "string",
+    "city": "string"
+  }
+
+]
+
+
+
+======================================
+
+
+
+PhoneDesc{
+	
+color
+capacity
+
+}
+
+
+PhoneDetails{
+	
+
+	id
+	name
+	PhoneDesc data;
+
+}
+
+
+ List<PhoneDetails>  data =  exchnage(url, method, null, List.class).getBody()
+
+
+
+
+
+
+
+
+
+Request Body  :  
+
+    POJO : Based ong the payload 
+Response Body
+
+    POJO : 
+
+
+===============================
+
+
+
+YML/YAML file in SPring Boot: 
+=============================
+
+
+YAML is file format to configure Data. 
+
+
+YAMl will be used most of the cases in Automation of the Application Conffigurations
+
+YAML is more compatabile with Scripting languages. 
+
+YAML : Yet Another Markup Language
+
+
+file extention here it is .yml / .yaml
+
+
+
+Yaml file will follow snake case 
+YAML file will follow stair case
+
+
+
+application.yml 
+/ application.yaml
+
+properties : 
+
+	syntax : 
+
+			
+			name = value 
+
+	Property name conatains more than oone word, we are spearted by . 
+
+
+
+server.port=9999
+server.servlet.context-path=/flipkart
+
+
+spring.datasource.url=aws-sit
+spring.datasource.username=sit
+spring.datasource.password=sit
+
+
+spring.jpa.hibernate.ddl-auto=none
+spring.jpa.show-sql=true
+
+
+application.yaml:
+
+server:
+  port: 9999
+  servlet: 
+    context-path: /flipkart
+
+
+
+spring:
+  datasource: 
+    url:jdbc:oracle:thin:@localhost:1521:orcl
+    username: c##dilip
+    password: dilip
+
+  jpa:
+    hibernate:
+      ddl-auto: none
+    show-sql: true
+
+  
+
+
+Logging in Spring Boot Applications: 
+===================================
+
+
+Loggers 
+
+Behaviour and execution of programe
+
+one-> two-> three -> four 
+
+-> 
+
+APR 11 10-10.30 
+
+122345 : Apr 11 : 
+
+
+
+Logging Frameworks: 
+
+Log4J
+Slf4J
+
+etcc. 
+
+
+SLF4J : Spring Boot 
+
+
+
+
+The how to write loggeres : 
+=================================================
+
+#The java classes comes under package are effected with below log lvel. 
+logging.level.org.springframework=debug
+
+logging.level.com.dilip.spring.boot.rest.api=debug
+==================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bank Login Received Request data : sddff@gmail.com
+ Amount Transferring from : sddff@gmail.com :  Account
+Ammount frasfered from 123 to 143
+Bank Login Received Request data : weqre@gmail.com
+ Amount Transferring from : weqre@gmail.com :  Account
+Ammount frasfered from 123 to 143
+Bank Login Received Request data : eqwewe@gmail.com
+ Amount Transferring from : eqwewe@gmail.com :  Account
+Ammount frasfered from 123 to 143
+Bank Login Received Request data : wqewewqe@gmail.com
+ Amount Transferring from : wqewewqe@gmail.com :  Account
+Ammount frasfered from 123 to 143
+Bank Login Received Request data : weqewqe@gmail.com
+ Amount Transferring from : weqewqe@gmail.com :  Account
+Ammount frasfered from 123 to 143
+Bank Login Received Request data : ffvsdfdsf@gmail.com
+ Amount Transferring from : ffvsdfdsf@gmail.com :  Account
+Ammount frasfered from 123 to 143
+
+
+
+
+
+================
+
+[2m2024-04-16T08:19:18.999+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Bank Login Received Request data : ffvsdfdsf@gmail.com
+[2m2024-04-16T08:19:19.000+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m  Amount Transferring from : ffvsdfdsf@gmail.com :  Account
+[2m2024-04-16T08:19:19.000+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-5][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Ammount frasfered from 123 to 143
+[2m2024-04-16T08:19:23.655+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Bank Login Received Request data : dilip@gmail.com
+[2m2024-04-16T08:19:23.655+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m  Amount Transferring from : dilip@gmail.com :  Account
+[2m2024-04-16T08:19:23.656+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-2][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Ammount frasfered from 123 to 143
+[2m2024-04-16T08:19:26.429+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Bank Login Received Request data : eeerwe@gmail.com
+[2m2024-04-16T08:19:26.429+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m  Amount Transferring from : eeerwe@gmail.com :  Account
+[2m2024-04-16T08:19:26.429+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-3][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Ammount frasfered from 123 to 143
+[2m2024-04-16T08:19:29.020+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Bank Login Received Request data : dbgdgf@gmail.com
+[2m2024-04-16T08:19:29.020+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m  Amount Transferring from : dbgdgf@gmail.com :  Account
+[2m2024-04-16T08:19:29.020+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-1][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Ammount frasfered from 123 to 143
+[2m2024-04-16T08:19:31.636+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Bank Login Received Request data : ddfgfgfdggdgf@gmail.com
+[2m2024-04-16T08:19:31.636+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m  Amount Transferring from : ddfgfgfdggdgf@gmail.com :  Account
+[2m2024-04-16T08:19:31.636+05:30[0;39m [32m INFO[0;39m [35m11756[0;39m [2m---[0;39m [2m[nio-9999-exec-7][0;39m [2m[0;39m[36mc.d.s.b.r.api.controller.BankController [0;39m [2m:[0;39m Ammount frasfered from 123 to 143
+
+
+
+
+
+
+Log Levels :
+
+
+INFO
+
+WARN
+ERROR
+
+
+Enable log level: 
+
+
+TRACE
+DEBUG
+
+
+
+INFO : Logginf Regualr flow meessages 
+
+ERROR : 
+
+
+
+
+
+
+INFO
+
+
+
+TRACE>DEBUG>INFO>WARN>ERROR
+
+	
+
+
+Status Meeting /Standup Meeting : 
+
+Agile Methodology
+
+
+
+
+Spring Boot Profiles:  
+=====================
+
+
+
+Spring Boot Profiles is representing a concept of configuration of data specific to Project Environments.
+
+
+
+
+DEV :   
+
+contact.email=dev@flipkart.com
+
+SIT :   
+
+contact.email=sit@flipkart.com
+
+
+UAT :   
+
+contact.email=uat@flipkart.com
+
+prod :   
+
+contact.email=prod@flipkart.com
+
+
+We have to create configuration files specific to environment. 
+
+Here we are considering environment as profile in spring boot. 
+
+-> syntax : 
+
+application-<env>.properties / application-<env>.yaml
+
+
+
+-> Configure properties inside default properties file : application.properties, 
+    which are not going change values for every env. 
+
+   ->  Configure properties which are going change values from one env to another env, 
+
+   specific profile properties file. 
+
+
+
+
+Segregated Properties based on profiles. 
+
+
+
+spring.profiles.active =prod:  here we have to give on which env/profile it has to choose. 
+
+
+-Dspring.profiles.active=uat
+
+
+
+Spring Boot Actuator:
+=====================
+
+->   Spring Boot Actuator will provide Production Ready Features/endpoints
+
+
+
+-> Spring Boot Actuator provides pre-defined endpoints which are related to application 
+    configurations and monitoring. 
+
+->  This is a individual concept given as part of Spring Boot. 
+
+-> Add the starter dependency of actuator
+
+
+-> Up and Running: Health Status :  Up 
+
+
+-> Spring Boot Actuator provided endpoints with starting with uri path /actuator
+
+
+http://localhost:8888/flipkart/actuator/health
+
+
+
+-> Actuator will enables by defualt only one endpoint /actuator/health out of many endpoints. 
+
+->  
+
+
+http://localhost:8888/flipkart/actuator/beans
+
+
+
+
+
+
+
+
+Builder Deisgn Pattern:
+=======================
+
+
+A Class With Propeties of 15 
+
+
+->  Create an Object for above class 
+     with 10 values of 10 properties.
+
+
+     A(........) //10 Props
+
+
+     	(name, gender, salary, email) // Follow the Order of params 
+     	("MALE","dilip@gmail.com","Diip",300000.00)
+
+
+     -> 7 values of 7 properties 
+     	7 params 
+
+
+     	// Create Empty Object/Defult Constructor 
+     	// Settter methods 
+
+
+
+   -> Create an Object with 15 values 
+
+
+
+->  To Create Complex Objects 
+->  This will help us creating instances with avilbale values of properties 
+-> This will enables Readability
+
+
+
+Student(int id, name, mathsmarks, engMarks, Hindiiamrks)
+
+
+
+
+
+
+  Student(1,"Dilip",25,35,99);
+
+
+
+
+
+
+B
+10, Properties 
+
+5 Required, 5 Optional
+
+
+
+
+	Student s = new Student(1, "Dilip", "dilip@gmail.com", null, null, 33, 22, 55.00);
+
+
+
+
+Student s1 = Student.builder()
+				.totalMarks(33)
+				.id(101)
+				.fee(2000)
+				.name("Dilip")
+				.email("Dilip@gmail.com")
+				.build();
+
+
+
+
+
+Spring Security: 
+===============
+
+
+Security :   
+
+
+Security Breach : 
+
+
+Token Based Authentication : 
+
+
+
+
+https://www.flipkart.com/helpcentre?otracker=${otracker}_navlinks
+
+
+
+
+Authentication 
+
+
+
+
+
+Authentication V/S Authorization :
+
+
+
+Authentication : 
+
+		Who are you? :  NIT
+
+Authorization?
+
+		what you are?
+
+
+
+
+
+
+
+
+Token Based Authentication: 
+----------------------------
+
+
+1. OAuth2 
+2. JWT (Java Web Tokens) : 90%
+
+
+JWT : 
+=====
+
+Token Creation 
+
+			Unique User Id  : To Identity  : 882611377
+											263263326
+
+
+				Login:
+
+				User ID :	8826111377
+				password  : 	abcd12345	
+
+									Request -----------> Server 
+
+																Validate Credentials 
+
+																	Start Creating Token 
+
+
+																		8826111377 +  
+																		+ Duration of Time : 
+																			24 Hours
+																			 Apr 26 8.45 Am
+																			expiry time : Apr 27 8.45 AM
+
+																			+jdjfjdkfsdjf
+
+																		= JWT ->  Encryption
+																		
+																		ad;sdbs;jdnbsdnsdnkl
+		Client																sadjsdhksdhka
+							<------------------------------				djasdb;ewtwh4worheor
+											Response 							hdhsdhbsdkasdjsjdkaskbdajkdsjkdd
+										Body + Header
+
+
+Client : 8826111377
+
+		Tokens	--------------> account/address ----------------------> Validate Token 
+
+
+ad;sdbs;jdnbsdnsdnkl
+sadjsdhksdhka																		
+djasdb;ewtwh4worheor
+hdhsdhbsdkasdjsjdkaskbdajkdsjkdd
+																Decryption
+																		
+																	ad;sdbs;jdnbsdnsdnkl
+																	sadjsdhksdhka																		
+																		djasdb;ewtwh4worheor
+																		hdhsdhbsdkasdjsjdkaskbdajkdsjkdd
+																		
+																			--
+																			---
+																			jdjfjdkfsdjf
+																			--
+																			Requested User ID : 8826111377
+																		token User ID : 8826111377
+
+																	exp	time stamp : Apr 27 8.45 AM
+
+
+																	-> Validaity of Token
+		<-----------------------------------------------------------															-----------
+															Response 
+
+
+
+							RefreshToken 
+
+
+
+
+Naresh
+
+	Login:
+
+				User ID :	1234567890
+				password  : 	xyz123	
+
+									Request -----------> Server 
+
+																Validate Credentials 
+
+																	Start Creating Token 
+																		1234567890 + jdjfjdkfsdjf
+																		= JWT -> 
+																		
+																		ad;sdbdajs434r32423dnsjcns;jdnbsdnsdnkl
+		Client																saddfdjsd3rrw4hksdhka
+							<------------------------------				djasdb;ewsfddsdtwh4worheor
+											Response 							hdhadeafe42543545sdhbsdkasdjsjdkaskbdajkdsjkdd
+										Body + Header
+
+
+
+
+
+
+
+
+		 -> Set validity of Token 
+		        -> Time Duration 
+Token Validation 
+
+
+
+
+Hi
+
+
+wJIFSRIOFJSODFND;fD -> decrypt -> Hi 
+
+
+
+
+
+
+
+2. JWT (Java Web Tokens) : 90%
+
+-> JWT : Creating Token
+-> Validation Of Token 
+
+
+- JWT Token Will be created with combination of below 3 components 
+
+
+HEADER:
+		ALGORITHM & TOKEN TYPE
+
+PAYLOAD:	
+		DATA
+
+
+
+
+SIGNATURE : 
+
+
+
+----- Create The Token -> 
+
+
+
+
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI4ODI2MTExMzc3IiwiaWF0IjoxNTE2MjM5MDIyfQ.77XBzSSNioUfRTjEbhYVtjh_WH9n7RBsMRBPUQQD5_E
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5OTg5OTAwNDQwIiwiaWF0IjoxNTE2MjM5MDIyfQ.ADwAKN5jfocd06cDalJqsPxx9qpbGBTQWiJjLMgsMcc
+
+
+
+Authorizaation : eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiI5OTg5OTAwNDQwIiwiaWF0IjoxNTE2MjM5MDIyfQ.ADwAKN5jfocd06cDalJqsPxx9qpbGBTQWiJjLMgsMcc
+
+
+
+
+
+<!--JWT jars -->
+		<dependency>
+			<groupId>io.jsonwebtoken</groupId>
+			<artifactId>jjwt</artifactId>
+			<version>0.9.1</version>
+		</dependency>
+		<dependency>
+			<groupId>javax.xml.bind</groupId>
+			<artifactId>jaxb-api</artifactId>
+			<version>2.3.0</version>
+		</dependency>
+		<!--JWT jars -->
+
+-> Create class 
+-> Impl like 
+->Creation of token
+-> Validation Of Token
+
+
+
+APr 28 10 AM = APR 28 11 AM 
+
+
+
+eyJhbGciOiJIUzI1NiJ9.
+eyJzdWIiOiJEaWxpcFNpbmdoIiwiaWF0IjoxNzE0MTg4NjkwLCJleHAiOjE3MTQxODg5OTB9.
+9f60AEyfDfmeTCV_zcZmKssCkzoKeT2rTljWqgbcXrw
+
+
+
+dilip123
+
+eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkaWxpcDEyMyIsImlhdCI6MTcxNDM1NzMzNSwiZXhwIjoxNzE0MzU3NjM1fQ.AQAyMRVgDRHuXt8HWLhsWK42aaIfQrF4is0xVqmacNY
+
+Today : 
+
+eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkaWxpcDEyMyIsImlhdCI6MTcxNDQ0Mzc5OSwiZXhwIjoxNzE0NDQ0MDk5fQ.tB3AN5DagsM4pRO3u6luqa2QHsTc8rULUvFGfiLdT7Y
+
+
+
+abcxyz
+
+eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYmN4eXoiLCJpYXQiOjE3MTQzNTczNzEsImV4cCI6MTcxNDM1NzY3MX0.ysTgw6zXZthhcEVWKjnhCrHuOc-SxjgwQfBuFhoak80
+
+
+Today : 
+
+eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhYmN4eXoiLCJpYXQiOjE3MTQ0NDM4MjYsImV4cCI6MTcxNDQ0NDEyNn0.S1JsmyYvOd2Nsuq48VcN1f09M83O-Nhz9Jfu-YsdX24
+
+
+1. Added JWT FW  Jar files 
+2. JWT : Creation and Validation of Token 
+
+3. Add Security Module Dependency 
+
+4. Programming : 
+
+	-> 
+
+
+
+
+	Security : 
+
+	gmail : 
+
+	login Id 	: gmail ID 
+					password 
+
+	flipkart : 
+		login ID :   Email Id / Mobile Number 
+
+	insta:
+		login ID : Mobie / email / insta ID  
+
+	jio savan : 
+
+			login ID : Mobile Number 
+
+
+	1 ->  Implements an interface UserDetails provided by Security
+
+Provides core user information. 
+
+
+Implementations are not used directly by Spring Security for security purposes. They simply store user information which is later encapsulated into Authentication objects. This allows non-security related user information (such as email addresses,telephone numbers etc) to be stored in a convenient location. 
+
+Concrete implementations must take particular care to ensure the non-null contract detailed for each method is enforced. See org.springframework.security.core.userdetails.User for a referenceimplementation (which you might like to extend or use in your code).
+
+
+
+
+isAccountNonExpired  : true
+
+isAccountExpired : true 
+
+
+->  Implement another interface from your servcie layer : UserDetailsService : Provided By Security 
+
+		public UserDetails loadUserByUsername(String username) throws UsernameNotFoundException;
+
+
+		UserDetails imlemented which entity Object? 
+
+		UserInforamtion
+
+		Interface can refer /holds Implemented Class Object. 
+
+
+
+->  Validating the tokens by Security Layer.
+
+
+
+
+ 	OncePerRequestFilter
+
+
+ 	We have to create a filter class by extending OncePerRequestFilter
+
+ ->   Configure Security of API services 
+
+Spring 6
+ ->  SecurityFilterChain
+
+
+ Spring 5 
+    WebSecurityConfigureAdapater
+
+    We will configure Rules like which api's should be authenticated , which api should be ignored w.r.to authentication
+ 	
+
+
+
+Security : 
+
+
+
+GetSuresh1212122
+
+foufhrpuhsd;oehgiwurgo72rwt97r79whn3
+
+GetSuresh1212122
+
+
+
+
+
+
+
+eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkaWxpcEBnbWFpbC5jb20iLCJpYXQiOjE3MTQ3OTI0OTIsImV4cCI6MTcxNDc5Mjc5Mn0.8sN5i2XvFylqwzPSftDL4KtAGZU1PWTpU9U2Rn44HSE
+
+
+
+eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJkaWxpcEBnbWFpbC5jb20iLCJpYXQiOjE3MTQ3OTI2NzksImV4cCI6MTcxNDc5Mjk3OX0.9lwSdoA2ThUoD9MoHi-4zUIumPECPnkSOZL-CXfm9jI
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@dilipitacademy
+
+
+
+
+
+
+Learn On Your Own:
+
+
+	POJO  Object -  POJO Object Mapping 
+
+1. ObjectMapper (dto,entiy)
+2. MapStruct
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MicroServices:
+=============
+
+Micro - Small 
+Services - applications
+
+
+
+MonoLithic Application: 
+
+
+MonoLithic Application, represents all the functional requirements implemetnations as a single unit/application. 
+
+
+
+-> 
+
+3 Micro Services 
+	
+ 
+	user-service : 8001,8002,8003  				/user    
+	order-service  : 8005  , 8006 				/order  
+	payment-service : 8010 , 8001               /payment 
+
+
+FE Team 
+
+
+User Reg :  
+
+	user-service : 8001,8002,8003  
+	
+
+
+API Gateway :
+============
+
+
+Provides a simple, yet effective way to route to APIs in Servlet-based applications. Provides cross-cutting concerns to those APIs such as security, monitoring/metrics, and resiliency.
+
+
+Spring Cloud: Supporting Cloud Based Applications. 
+
+IS it similar to Cloud Computing like AWS etcc..? NO
+
+
+MIcsro Services With Spring boot : 
+
+
+
+
+
+
+
+
+Steps : 
+=======
+ 
+ New Spring Starter Project 
+ =-> 
+
+ Gateway 
+
+ Finsih
+
+ ======
+
+ Routing Configuration: 
+
+ ====================
+
+
+Request Routing: 
+
+
+
+#User Micro Service :  
+
+#localhost:8888/user/register
+
+
+===============
+
+spring.application.name=flipkart-gateway
+
+server.port=8888
+
+logging.level.org.springframework=DEBUG
+
+#User Micro Service :  
+
+spring.cloud.gateway.mvc.routes[0].id=user-service
+spring.cloud.gateway.mvc.routes[0].predicates[0]=Path=/user/**
+spring.cloud.gateway.mvc.routes[0].uri = http://localhost:8001
+
+
+#Order Micro Service :  
+
+spring.cloud.gateway.mvc.routes[1].id=order-service
+spring.cloud.gateway.mvc.routes[1].predicates[0]=Path=/order/**
+spring.cloud.gateway.mvc.routes[1].uri = http://localhost:8005
+
+
+
+#Order Micro Service :  
+
+spring.cloud.gateway.mvc.routes[2].id=payment-service
+spring.cloud.gateway.mvc.routes[2].predicates[0]=Path=/payment/**
+spring.cloud.gateway.mvc.routes[2].uri = http://localhost:8010
+
+
+
+============
+
+
+
+localhost:8888/user/register
+localhost:8888/order/create
+localhost:8888/payment/netbanking/login
+
+
+
+
+
+Service Registry  & Service Discovery: 
+======================================
+
+
+
+
+
+
+
+
+
+
+->  Trainer :   I would like to Student Details 
+
+
+Student : Registering A Course : Java Full Stack : Admin Taken All Details 
+
+
+			Admin :    Details :  Centralized Inforamtion od Students 
+ 
+
+			Trainer :  
+
+
+
+
+
+
+
+
+Service Registry : 
+=================
+
+
+Registry :  A registry is a collection of all the official records relating to something, or the place where they are kept.
+
+
+-> Service Registry Application will maintains all the Micro Services information,  which Micro Services are registred with Registry application. 
+
+
+
+ -> It will collect Inforamtion from each MS as below: 
+
+ 	Hostnames 
+ 	port Numbers 
+ 	Ip Address of MS 
+ 	etcc.. 
+
+
+ Service Discovery : 
+
+
+
+ Discovery CLient : 
+
+
+
+Create Service Registry : 
+===========================
+
+-> Spring Starter 
+
+spring-cloud-netflix Eureka Server.
+
+-> Finish
+  
+  -> Add an annotation @EnableEurekaServer with  @SpringBootApplication 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+http://localhost:8761/eureka/
+
+
+Add Discovery Functionality to MS: 
+-> Add a dependency of Eureka Dicovery Client in each MS 
+
+		<dependency>
+			<groupId>org.springframework.cloud</groupId>
+			<artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
+		</dependency>
+
+
+-> Addin An annotation @EnableDiscoveryClient with @SpringBootApllication
+
+-> Add Eureka Server URL inside application.propertie	
+
+
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka
+
+
+
+
+
+
+
+
+Gateway Integration With Service Registry : 
+=============================================
+
+-> Make GW  as a Discovery CLient 
+
+Follow above 3 steps
+
+-> Test : send a request to user MS : /Regi 
+
+
+
+
+localhost:8888/user/register
+
+
+Syntax :  
+
+	gatewayURI/Micro-Service-ID/REST-SERVICE_URI
+
+	localhost:8888/USER-SERVICE/user/register
+	localhost:8888/ORDER-SERVICE/order/create
+	localhost:8888/PAYMENT-SERVICE/payment/login
+
+
+	localhost:8888 : hostname : 
+
+
+
+	aws-dev-silver.com/USER-SERVICE/user/register
+
+
+
+	localhost:8888/USER-SERVICE/user/register
+	localhost:8888/ORDER-SERVICE/order/create
+	localhost:8888/PAYMENT-SERVICE/payment/login
+
+
+
+
+
+
+
+
+
+
+
+
+
+	localhost:8888/user-service/***
+	localhost:8888/order-service/**
+	localhost:8888/payment-service/**
+
+
+spring.datasource.url=jdbc:oracle:thin:@localhost:1521:orcl
+spring.datasource.username=c##dilip
+spring.datasource.password=dilip
+
+
+Config Server & Config CLients: 
+===============================
+
+
+Configuration : 
+
+Configuring Application : 
+
+	Provding required Details to make sure application up and running. 
+
+
+	Properties : Key-Value pairs 
+
+	Micro Service : 
+
+		Common Properties 
+		Private Properties 
+
+
+
+Config Server is a component making all micro serivces configuration externalized and Centrlized. 
+
+
+Config CLient : Micro Service we have enable config client, 
+
+
+25  MS : contact@flipkart.com 
+5  MS :  info@flipkart.com
+
+
+
+
+
+
+-> Create Config Serevr 
+	
+		Add Dependency/Starter of Config Server
+
+
+-> Add 
+	an annotation : @EnableConfigServer
+
+->  Repo :  
+
+
+https://github.com/DilipItAcademy/flipkart-config-server.git
+
+
+
+[2m2024-05-15T09:01:03.833+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36mc.flipkart.api.UserServiceApplication   [0;39m [2m:[0;39m Starting UserServiceApplication using Java 17.0.6 with PID 14448 (D:\workspaces\MicroServices730AM\user-service\target\classes started by Dilip Singh in D:\workspaces\MicroServices730AM\user-service)
+[2m2024-05-15T09:01:03.834+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36mc.flipkart.api.UserServiceApplication   [0;39m [2m:[0;39m No active profile set, falling back to 1 default profile: "default"
+[2m2024-05-15T09:01:03.881+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36mo.s.c.c.c.ConfigServerConfigDataLoader  [0;39m [2m:[0;39m Fetching config from server at : http://localhost:9988/config
+[2m2024-05-15T09:01:03.881+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36mo.s.c.c.c.ConfigServerConfigDataLoader  [0;39m [2m:[0;39m Located environment: name=user-service, profiles=[default], label=null, version=5cb9e6c950425b32e9c70268fbd61d501fdd2fe2, state=null
+[2m2024-05-15T09:01:03.883+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36mo.s.b.devtools.restart.ChangeableUrls   [0;39m [2m:[0;39m The Class-Path manifest attribute in C:\Users\Dilip Singh\.m2\repository\com\oracle\database\jdbc\ojdbc11\21.9.0.0\ojdbc11-21.9.0.0.jar referenced one or more files that do not exist: file:/C:/Users/Dilip%20Singh/.m2/repository/com/oracle/database/jdbc/ojdbc11/21.9.0.0/oraclepki.jar
+[2m2024-05-15T09:01:03.884+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+[2m2024-05-15T09:01:03.884+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36m.e.DevToolsPropertyDefaultsPostProcessor[0;39m [2m:[0;39m For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+[2m2024-05-15T09:01:04.641+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[2m2024-05-15T09:01:04.807+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36m.s.d.r.c.RepositoryConfigurationDelegate[0;39m [2m:[0;39m Finished Spring Data repository scanning in 155 ms. Found 1 JPA repository interface.
+[2m2024-05-15T09:01:05.053+05:30[0;39m [32m INFO[0;39m [35m14448[0;39m [2m---[0;39m [2m[user-service] [  restartedMain][0;39m [2m[0;39m[36mo.s.cloud.context.scope.GenericScope    [0;39m [2m:[0;39m BeanFactory id=c546bd0f-831f-346d-a1e4-7705fb23ec7b
+[2m2024-05-15T0
+
+
+
+Config CLient :
+=============
+
+Micro Services will become Config CLients 
+
+	-> Add Dependency / Starter of Config CLient 
+	-> Add Config Srever URL inside every Micro Service own properties file. 
+			spring.config.import=optional:configserver:http://localhost:9988/config
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MicroService Communication: 
+=============================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
