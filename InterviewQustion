@@ -928,6 +928,32 @@ WAP to implement below scenaio.
 How to connect with multiple database using Hibernate.
 In springBoot how to change dafault server to others.
 
+CGI interview Questions
+===========================
+
+API versioning in java
+Out of memory analysis and optimising the code.
+How to optimize the database query?
+Java code to get first unique charactor
+How to run aur thread in managed way
+How you will test integration testing
+How multiple database we can configure in Spring Boot
+Java code to get first non repeated character from a string
+for eg: String str="character"
+output:h
+
+L & T 01 feb,2024
+========================
+1. Security is a critical concern in microservices. Discuss a scenario where sensitive information needs to be 	exchanged between microservices. How would you implement secure communication and ensure data integrity? 	What Java technologies would you leverage for this purpose?
+
+2. Tell me real example of dynamic object creation where you used reflection API.
+
+3. How to implement where Data transactional and data analytical is running same time and how to handle real 	scenario in java microservices.
+
+4. Have you worked on event driven architecture and how to implement it.
+
+5. pub sub model and explain how to communicate each other
+
 
 
 
