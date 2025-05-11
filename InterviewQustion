@@ -942,7 +942,7 @@ Java code to get first non repeated character from a string
 for eg: String str="character"
 output:h
 
-L & T 01 feb,2024
+L & T 01 feb,2025
 ========================
 1. Security is a critical concern in microservices. Discuss a scenario where sensitive information needs to be 	exchanged between microservices. How would you implement secure communication and ensure data integrity? 	What Java technologies would you leverage for this purpose?
 
