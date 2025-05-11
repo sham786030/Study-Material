@@ -132,7 +132,7 @@ Dog g;
 Cat c;
 }
 37.	Tell how many object will create when
-Student sd=new Student(‘c’);
+Student sd=new Student(â€˜câ€™);
 
 
 Heap----------------------SP
@@ -153,7 +153,7 @@ Deppartment
    Deptid
    Dname
    Dtails
-Then find the departmanet details which having dname=’ABC’
+Then find the departmanet details which having dname=â€™ABCâ€™
 Q. Suppose two class 
 	Class A------Singleton
 
@@ -172,20 +172,20 @@ Q. How you did maven packaging(Means build the applicationand deployed into serv
 Information technology
 Q. WAP to count each charator of string in a word
      For example
-     String s1=”shamim”
+     String s1=â€�shamimâ€�
      s---1
-     h—1
+     hâ€”1
      a---1
-     m—2
-     i—1
+     mâ€”2
+     iâ€”1
 Q. WAP to get common word from two string
-     String s1=”I am shamim here”;
-     String s2=”here shamim is that”;
-     Common word is ‘shamim’,’here’
+     String s1=â€�I am shamim hereâ€�;
+     String s2=â€�here shamim is thatâ€�;
+     Common word is â€˜shamimâ€™,â€™hereâ€™
 Q. How to take unique records from Map.
   If phone number and name  is matched then consider as duplicates record.
 Q. How to call one resful service to another?
-    For example: first service is ‘withdraw()’ and second service is ‘deposit()’
+    For example: first service is â€˜withdraw()â€™ and second service is â€˜deposit()â€™
 Q. What is use of qualifier in spring? And is it use the autowired bytype or byname?
 Q. Can we initialize abstract class inside constructor of different class?
 Q. How to make class immutable?
@@ -335,7 +335,7 @@ hibernate
 
 1. Explain your project with diagram
 2. Internal structure of HashMap
-3. Comparable and comparator interface with   example of employee class  and sort the   employeè using salary
+3. Comparable and comparator interface with   example of employee class  and sort the   employeÃ¨ using salary
 4. Using lamda expression how we can find particular employee.
 5. How to make HashMap synchronized and if you make then what is difference between HashMap and HashTable
 6. Why to use CuncurrentHashMap
@@ -370,7 +370,7 @@ iii)	What is spring boot and how the spring reduced the configuration.
 iv)	Create a stored procedure to print the employee number from employee table using cursor.
 ADP technology
 i)	WAP to sort the number from an array.
-ii)	WAP to make the array’s will have equal element till that time how much number should be deleted that count we have to show for example
+ii)	WAP to make the arrayâ€™s will have equal element till that time how much number should be deleted that count we have to show for example
 Input: A[]={2,4,4,4,4,4,3}
 Output : 2
 
@@ -953,6 +953,107 @@ L & T 01 feb,2024
 4. Have you worked on event driven architecture and how to implement it.
 
 5. pub sub model and explain how to communicate each other
+
+EY Interview Question 06/05/2025
+================================
+1. 
+
+
+Output:
+3, [one, two]
+4, [five, four]
+5, [three]
+		*/
+		
+Input
+        
+List<String> input = Arrays.asList("one", "two", "three", "four", "five");
+		
+2. What is method reference
+
+3. Internal implementation of HashMap, when we are putting the value into it.
+
+
+Capgemini 08/05/2025
+==========================
+1. How you have implementaed the cache in spring boot.
+2. What attribute we can pass with @cahche annotation.
+3. In existing api we need to implement the JWTToken then what will be steps and code level change where we have 	to mskr.
+   https://www.youtube.com/watch?v=q2l91Ffc_8U&t=4110s
+4. Do you know docker and what command you have used.
+5. How you have used the splunk in production, suppose in specific microservice api need to find then how we can   	form the splunk query and how to set the index for one specific api.
+   https://www.youtube.com/watch?v=VO20SgiTTOU
+
+6. How you have accesed the GCP bucket in your project?
+
+
+09/05/2025
+
+GFT technologies 09/05/2025
+===========================
+
+public class Person{
+	String name;
+	String surname;
+  
+  public person(name,surName){
+    
+    
+  }
+  
+  public void setName(name){
+    
+    this.name=name
+  }
+   public void setSurname(surname){
+    
+    this.surname=surname
+  }
+  
+  public String getNameName(){
+    
+   return this.name;
+  }
+   public String getSurName(){
+    
+    return this.setSurname;
+  }
+}
+
+Person p1 = new Person("abc","surname");
+  p1.setName("Abc")
+  String name = p1.getName();
+
+HashMap<Integer,<Person> hashMap= new HashMap();
+
+0
+  1
+  2
+  --15
+  hashCode=1
+  bucket=1
+  
+  equals() vs == 
+  
+  Person s1=xyz
+  Person s2=xyz
+  String s3 = new String("");
+  s1==s2 false
+  s1.equals(s2) false
+    
+GCP:
+
+GCP bucket
+
+Employee Department
+empid    empid
+
+
+outer join
+
+Synchronized and Volatile
+
+
 
 
 
