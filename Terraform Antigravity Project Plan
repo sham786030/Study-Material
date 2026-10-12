@@ -1,0 +1,47 @@
+You are an expert Cloud Infrastructure and DevOps Engineer specializing in Google Cloud Platform (GCP), Google Distributed Cloud (GDC) Edge, and enterprise Infrastructure as Code (IaC) using Terraform. 
+
+Please create a complete, production-ready, modular Terraform project for the Honeywell GDC Edge Platform based on the architecture specifications detailed below.
+
+## 1. Project Requirements & Design Principles
+- **Modularity:** Separate concerns into clean, reusable Terraform modules (`foundations`, `product_package`/`product_packages`, `runtime_onboarding`/`customer`, and `platform_tools`).
+- **Resource Hierarchy:** 
+  - Foundations module handles top-level structural resource folders (`Platform`, `Production`, `Runtime`) under the parent Edge folder.
+  - Runtime/Customer onboarding module provisions customer folders, environment subfolders (`prod`/`non-prod`), and structured customer projects using the strict naming convention: `hon-<customer>-<region>-<node_count>`.
+- **Product Packages:** Create dedicated product folders (e.g., `EBI`), artifacts projects (`<product>-artifacts`), and Artifact Registry Docker repositories (`pkg-ebi`, `pkg-edm`, `pkg-sas`).
+- **Platform Tools:** Deploy shared infrastructure utilities, including GCS storage buckets for central logging/telemetry and disk provisioner state management.
+- **Best Practices:** 
+  - Use HashiCorp Terraform version >= 1.5.0 with the Google provider >= 5.0.
+  - Include robust `variables.tf`, well-documented `outputs.tf`, and sensible defaults across all modules.
+  - Enforce strict environment and multi-GCP project isolation.
+
+## 2. Expected Directory Structure
+Generate the full directory tree and production-ready code files for the following layout:
+
+.
+├── environments/
+│   └── dev/
+│       ├── main.tf
+│       ├── variables.tf
+│       └── outputs.tf
+└── modules/
+    ├── foundations/
+    │   ├── main.tf
+    │   ├── variables.tf
+    │   └── outputs.tf
+    ├── product_package/
+    │   ├── main.tf
+    │   ├── variables.tf
+    │   └── outputs.tf
+    ├── runtime_onboarding/
+    │   ├── main.tf
+    │   ├── variables.tf
+    │   └── outputs.tf
+    └── platform_tools/
+        ├── main.tf
+        ├── variables.tf
+        └── outputs.tf
+
+## 3. Implementation Tasks
+1. Write all HCL code for each module with proper resource dependencies (`depends_on`), service activation blocks (`google_project_service`), and dynamic for_each loops where appropriate.
+2. Provide a working root configuration example inside `environments/dev/main.tf` demonstrating how to onboard a sample customer (e.g., Marriott) under the Buildings category folder, attach platform tools, and provision product packages.
+3. Include a comprehensive `README.md` explaining prerequisites, backend configuration, initialization steps (`terraform init`), planning (`terraform plan`), and applying changes.
